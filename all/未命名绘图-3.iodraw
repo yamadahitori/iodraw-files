@@ -322,7 +322,13 @@
           <mxGeometry x="1550" y="678" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-DMolXW_4zz7l10JoO-d-100" value="成绩录入" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="688" width="70" height="40" as="geometry" />
+          <mxGeometry x="1320" y="738" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-102" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1400" y="690" as="sourcePoint" />
+            <mxPoint x="1450" y="640" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
