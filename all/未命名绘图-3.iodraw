@@ -355,13 +355,10 @@
         <mxCell id="-DMolXW_4zz7l10JoO-d-109" value="成绩信息库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1380" y="795" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-DMolXW_4zz7l10JoO-d-110" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="-DMolXW_4zz7l10JoO-d-110" value="" style="endArrow=none;html=1;rounded=0;entryX=0.889;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.122;exitY=0.913;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-109" target="-DMolXW_4zz7l10JoO-d-109">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1390" y="830" as="sourcePoint" />
             <mxPoint x="1460" y="830" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1410" y="830" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
