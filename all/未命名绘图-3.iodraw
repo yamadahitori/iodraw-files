@@ -333,9 +333,9 @@
         <mxCell id="-DMolXW_4zz7l10JoO-d-103" value="开课信息库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1235" y="795" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-DMolXW_4zz7l10JoO-d-104" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="-DMolXW_4zz7l10JoO-d-104" value="" style="endArrow=none;html=1;rounded=0;entryX=0.739;entryY=1.141;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.177;exitY=0.951;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-103" target="-DMolXW_4zz7l10JoO-d-103">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1400" y="690" as="sourcePoint" />
+            <mxPoint x="1250" y="830" as="sourcePoint" />
             <mxPoint x="1450" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
