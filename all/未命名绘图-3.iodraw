@@ -373,8 +373,129 @@
             <mxPoint x="1450" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-DMolXW_4zz7l10JoO-d-115" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1525" y="618" width="50" height="30" as="geometry" />
+        <mxCell id="-DMolXW_4zz7l10JoO-d-115" value="选课信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1515" y="628" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-116" value="教师" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1115" y="860" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-117" value="学生" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1377" y="1096" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-118" value="① 审批开课计划" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="981" width="140" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-119" value="② 审批选课申请" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1353" y="1226" width="140" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-120" value="③ 录入与发布成绩" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1314" y="981" width="156" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-121" value="教师信息库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1074" y="1088" width="95" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-122" value="学生信息库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1657" y="1333" width="95" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-123" value="课程信息库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1074" y="1333" width="95" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-124" value="选课信息库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1463" y="1333" width="95" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-125" value="提交开课计划" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.87;entryX=0.34;entryY=0.01;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-116" target="-DMolXW_4zz7l10JoO-d-118">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1010" y="945" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-126" value="开课审批结果/通知" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=0.01;entryX=0.45;entryY=0.99;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-118" target="-DMolXW_4zz7l10JoO-d-116">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1150" y="945" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-127" value="批准课程信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.41;exitY=1;entryX=0.08;entryY=0;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-118" target="-DMolXW_4zz7l10JoO-d-123">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1039" y="1051" />
+              <mxPoint x="1039" y="1296" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-128" value="更新教师资料" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-118" target="-DMolXW_4zz7l10JoO-d-121">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1121" y="1051" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-129" value="提交选课申请" style="curved=1;startArrow=none;endArrow=block;exitX=0.12;exitY=1;entryX=0.28;entryY=0.01;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-117" target="-DMolXW_4zz7l10JoO-d-119">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1324" y="1190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-130" value="选课申请结果通知" style="curved=1;startArrow=none;endArrow=block;exitX=0.58;exitY=0.01;entryX=0.64;entryY=1;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-119" target="-DMolXW_4zz7l10JoO-d-117">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1460" y="1190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-131" value="选课记录" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.06;entryY=0;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-119" target="-DMolXW_4zz7l10JoO-d-124">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1423" y="1296" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-132" value="调用课程信息" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.87;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-119" target="-DMolXW_4zz7l10JoO-d-123">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1121" y="1296" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-133" value="访问学生信息" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.9;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-119" target="-DMolXW_4zz7l10JoO-d-122">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1704" y="1296" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-134" value="录入成绩" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.74;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-116" target="-DMolXW_4zz7l10JoO-d-120">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1392" y="945" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-135" value="更新成绩信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.92;exitY=1;entryX=0.93;entryY=0;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-120" target="-DMolXW_4zz7l10JoO-d-124">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1597" y="1051" />
+              <mxPoint x="1597" y="1296" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-136" value="生成成绩单" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-120" target="-DMolXW_4zz7l10JoO-d-117">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1423" y="1051" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-137" value="查询课程信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.12;exitY=1;entryX=0.91;entryY=0;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-120" target="-DMolXW_4zz7l10JoO-d-123">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1204" y="1051" />
+              <mxPoint x="1204" y="1296" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
