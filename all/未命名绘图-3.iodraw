@@ -430,7 +430,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-DMolXW_4zz7l10JoO-d-206" value="登记姓名、住址、身份证号、存款类型、日期、到期日期、利率、密码" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.19;entryY=0;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-198">
+        <mxCell id="-DMolXW_4zz7l10JoO-d-206" value="登记姓名、住址、身份证号、存款类型、&#xa;日期、到期日期、利率、密码" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.19;entryY=0;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-198">
           <mxGeometry x="-0.2835" y="11" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1045" y="1315" />
