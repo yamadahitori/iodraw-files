@@ -379,7 +379,7 @@
         <mxCell id="-DMolXW_4zz7l10JoO-d-191" value="上课，考试，得到成绩" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1410" y="727.5" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-DMolXW_4zz7l10JoO-d-193" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="-DMolXW_4zz7l10JoO-d-193" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.627;exitY=-0.005;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-100" target="-DMolXW_4zz7l10JoO-d-89">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1300" y="670" as="sourcePoint" />
             <mxPoint x="1350" y="620" as="targetPoint" />
