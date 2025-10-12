@@ -385,6 +385,9 @@
             <mxPoint x="1350" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-194" value="成绩" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="668" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
