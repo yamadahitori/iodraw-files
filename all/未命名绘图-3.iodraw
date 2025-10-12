@@ -161,7 +161,7 @@
             <mxPoint x="780" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-DMolXW_4zz7l10JoO-d-46" value="团队" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-DMolXW_4zz7l10JoO-d-46" value="比赛类别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="700" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
