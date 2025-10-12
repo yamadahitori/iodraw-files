@@ -376,6 +376,125 @@
         <mxCell id="-DMolXW_4zz7l10JoO-d-115" value="选课信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1515" y="628" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-138" value="教师" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1167" y="860" width="55" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-139" value="学生" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1377" y="1174" width="55" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-140" value="审批开课计划" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="986" y="974" width="111" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-141" value="审批选课申请" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1349" y="1287" width="111" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-142" value="录入与发布成绩" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1341" y="966" width="127" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-143" value="==教师信息库==" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="1166" width="174" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-144" value="==学生信息库==" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1628" y="1471" width="174" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-145" value="==课程信息库==" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="1471" width="174" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-146" value="==选课信息库==" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1369" y="1471" width="174" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-147" value="提交开课计划" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=0.24;entryY=0;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-138" target="-DMolXW_4zz7l10JoO-d-140">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="989" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-148" value="开课通知" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=0;entryX=0.07;entryY=0.99;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-140" target="-DMolXW_4zz7l10JoO-d-138">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1119" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-149" value="更新教师信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-140" target="-DMolXW_4zz7l10JoO-d-143">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1102" y="1130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-150" value="批准课程信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=1;entryX=0.22;entryY=0;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-140" target="-DMolXW_4zz7l10JoO-d-145">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="980" y="1130" />
+              <mxPoint x="980" y="1435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-151" value="提交选课申请" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=0.98;entryX=0.17;entryY=0;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-139" target="-DMolXW_4zz7l10JoO-d-141">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1344" y="1251" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-152" value="选课结果通知" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0;entryX=0.8;entryY=0.98;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-141" target="-DMolXW_4zz7l10JoO-d-139">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1464" y="1251" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-153" value="调用课程信息" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.65;entryX=0.46;entryY=0;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-141" target="-DMolXW_4zz7l10JoO-d-145">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1086" y="1435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-154" value="更新学生信息" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-141" target="-DMolXW_4zz7l10JoO-d-144">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1715" y="1435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-155" value="生成选课记录" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.38;entryY=0;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-141" target="-DMolXW_4zz7l10JoO-d-146">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1404" y="1435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-156" value="录入成绩" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.7;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-138" target="-DMolXW_4zz7l10JoO-d-142">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1404" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-157" value="更新成绩" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.81;entryX=0.76;entryY=0;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-142" target="-DMolXW_4zz7l10JoO-d-146">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1568" y="1130" />
+              <mxPoint x="1568" y="1435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-158" value="生成成绩单" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-142" target="-DMolXW_4zz7l10JoO-d-139">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-159" value="调用课程信息" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.78;entryX=0.78;entryY=0;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-142" target="-DMolXW_4zz7l10JoO-d-145">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1224" y="1130" />
+              <mxPoint x="1224" y="1435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
