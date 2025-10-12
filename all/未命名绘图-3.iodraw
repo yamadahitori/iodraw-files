@@ -53,10 +53,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="480" as="sourcePoint" />
             <mxPoint x="590" y="430" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="570" y="450" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-19" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="655" y="508" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
