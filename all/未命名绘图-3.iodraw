@@ -284,8 +284,8 @@
         <mxCell id="-DMolXW_4zz7l10JoO-d-82" value="选课系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1330" y="583" width="50" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="-DMolXW_4zz7l10JoO-d-86" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1175" y="588" width="50" height="30" as="geometry" />
+        <mxCell id="-DMolXW_4zz7l10JoO-d-86" value="开课批准" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="600" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
