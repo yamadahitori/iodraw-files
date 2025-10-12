@@ -212,10 +212,10 @@
             <mxPoint x="580" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-DMolXW_4zz7l10JoO-d-61" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="-DMolXW_4zz7l10JoO-d-5">
+        <mxCell id="-DMolXW_4zz7l10JoO-d-61" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="450" as="sourcePoint" />
-            <mxPoint x="580" y="520" as="targetPoint" />
+            <mxPoint x="240" y="470" as="sourcePoint" />
+            <mxPoint x="370" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
