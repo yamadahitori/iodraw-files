@@ -493,8 +493,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-DMolXW_4zz7l10JoO-d-217" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1165" y="1378" width="50" height="30" as="geometry" />
+        <mxCell id="-DMolXW_4zz7l10JoO-d-217" value="账户信息库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="1378" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-218" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
