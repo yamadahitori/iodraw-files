@@ -183,7 +183,7 @@
           <mxGeometry x="360" y="545" width="80" height="45" as="geometry" />
         </mxCell>
         <mxCell id="-DMolXW_4zz7l10JoO-d-53" value="参加" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="630" width="80" height="45" as="geometry" />
+          <mxGeometry x="360" y="650" width="80" height="45" as="geometry" />
         </mxCell>
         <mxCell id="-DMolXW_4zz7l10JoO-d-54" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-51" target="-DMolXW_4zz7l10JoO-d-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -197,8 +197,8 @@
             <mxPoint x="580" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-DMolXW_4zz7l10JoO-d-57" value="团队" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="595" width="50" height="30" as="geometry" />
+        <mxCell id="-DMolXW_4zz7l10JoO-d-57" value="校运动会" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="600" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
