@@ -352,12 +352,8 @@
             <mxPoint x="1460" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-DMolXW_4zz7l10JoO-d-108" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="1410" y="810" as="sourcePoint" />
-            <mxPoint x="1490" y="810" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-109" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1365" y="798" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
