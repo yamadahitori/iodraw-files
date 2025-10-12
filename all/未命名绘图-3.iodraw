@@ -232,6 +232,9 @@
         <mxCell id="-DMolXW_4zz7l10JoO-d-66" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="455" y="708" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-68" value="比赛类别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="730" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
