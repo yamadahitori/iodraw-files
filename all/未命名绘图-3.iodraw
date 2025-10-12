@@ -394,7 +394,7 @@
         <mxCell id="-DMolXW_4zz7l10JoO-d-196" value="储户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1098" y="860" width="93" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="-DMolXW_4zz7l10JoO-d-197" value="处理存取款业务" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="-DMolXW_4zz7l10JoO-d-197" value="处理存取款业务" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="910" y="981" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="-DMolXW_4zz7l10JoO-d-198" value="存款处理" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
@@ -461,13 +461,6 @@
               <mxPoint x="1301" y="1315" />
             </Array>
             <mxPoint x="1242.1" y="1369" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-DMolXW_4zz7l10JoO-d-211" value="计算利息" style="curved=1;startArrow=none;endArrow=none;exitX=-Infinity;exitY=Infinity;entryX=Infinity;entryY=-Infinity;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-201" target="-DMolXW_4zz7l10JoO-d-202">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1372" y="1454" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-DMolXW_4zz7l10JoO-d-213" value="打印利息清单" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=0;entryX=1;entryY=0.76;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-199" target="-DMolXW_4zz7l10JoO-d-196">
