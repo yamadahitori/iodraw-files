@@ -434,10 +434,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-DMolXW_4zz7l10JoO-d-206" value="登记姓名、住址、身份证号、存款类型、日期、到期日期、利率、密码" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.19;entryY=0;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-198" target="-DMolXW_4zz7l10JoO-d-200">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.2454" y="-21" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1045" y="1315" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-DMolXW_4zz7l10JoO-d-207" value="打印存款单" style="curved=1;startArrow=none;endArrow=block;exitX=0.97;exitY=0;entryX=0.37;entryY=0.99;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-198" target="-DMolXW_4zz7l10JoO-d-196">
