@@ -95,6 +95,11 @@
             <mxPoint x="730" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="618.5714285714287" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-DMolXW_4zz7l10JoO-d-28" value="参加" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="585" width="80" height="45" as="geometry" />
         </mxCell>
@@ -173,11 +178,14 @@
             <mxPoint x="580" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-DMolXW_4zz7l10JoO-d-50" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-48">
+        <mxCell id="-DMolXW_4zz7l10JoO-d-50" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-48" target="-DMolXW_4zz7l10JoO-d-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="680" as="sourcePoint" />
             <mxPoint x="580" y="630" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-51" value="参加" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="595" width="80" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
