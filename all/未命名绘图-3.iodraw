@@ -267,11 +267,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-DMolXW_4zz7l10JoO-d-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-77">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1470" y="600" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-DMolXW_4zz7l10JoO-d-77" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="583" width="50" height="25" as="geometry" />
         </mxCell>
@@ -293,7 +288,7 @@
           <mxGeometry x="1165" y="588" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-DMolXW_4zz7l10JoO-d-89" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="593" width="50" height="25" as="geometry" />
+          <mxGeometry x="1560" y="583" width="50" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
