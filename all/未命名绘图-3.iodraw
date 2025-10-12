@@ -484,13 +484,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-DMolXW_4zz7l10JoO-d-213" value="打印利息清单" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=0;entryX=1;entryY=0.76;rounded=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-199" target="-DMolXW_4zz7l10JoO-d-196">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1364" y="1146" />
-              <mxPoint x="1400" y="880" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.573;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-196" target="-DMolXW_4zz7l10JoO-d-199">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
