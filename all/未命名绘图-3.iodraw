@@ -395,13 +395,13 @@
           <mxGeometry x="1098" y="860" width="93" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-DMolXW_4zz7l10JoO-d-197" value="处理存取款业务" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="910" y="981" width="89" height="89" as="geometry" />
+          <mxGeometry x="910" y="981" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="-DMolXW_4zz7l10JoO-d-198" value="存款处理" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1005" y="1182" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="-DMolXW_4zz7l10JoO-d-199" value="取款处理" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="1060" width="99" height="99" as="geometry" />
+          <mxGeometry x="1241" y="1090" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="-DMolXW_4zz7l10JoO-d-200" value="==账户信息库==" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1129" y="1369" width="174" height="49" as="geometry" />
