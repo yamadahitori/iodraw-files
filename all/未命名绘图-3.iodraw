@@ -179,6 +179,11 @@
             <mxPoint x="580" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-67" value="m" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-DMolXW_4zz7l10JoO-d-50">
+          <mxGeometry x="-0.1228" y="6" relative="1" as="geometry">
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-DMolXW_4zz7l10JoO-d-51" value="参加" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="545" width="80" height="45" as="geometry" />
         </mxCell>
@@ -224,8 +229,8 @@
         <mxCell id="-DMolXW_4zz7l10JoO-d-65" value="m" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="405" y="688" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-DMolXW_4zz7l10JoO-d-66" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="445" y="708" width="50" height="30" as="geometry" />
+        <mxCell id="-DMolXW_4zz7l10JoO-d-66" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="708" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
