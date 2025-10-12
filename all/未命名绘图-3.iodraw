@@ -376,6 +376,9 @@
         <mxCell id="-DMolXW_4zz7l10JoO-d-115" value="选课信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1515" y="628" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="-DMolXW_4zz7l10JoO-d-191" value="上课，考试，得到成绩" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="718" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
