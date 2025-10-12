@@ -129,10 +129,10 @@
           <mxGeometry x="590" y="730" width="60" height="35" as="geometry" />
         </mxCell>
         <mxCell id="-DMolXW_4zz7l10JoO-d-37" value="项目编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="770" width="60" height="35" as="geometry" />
+          <mxGeometry x="650" y="805" width="60" height="35" as="geometry" />
         </mxCell>
         <mxCell id="-DMolXW_4zz7l10JoO-d-38" value="项目名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="775" width="60" height="30" as="geometry" />
+          <mxGeometry x="720" y="805" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-DMolXW_4zz7l10JoO-d-39" value="m" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="715" y="668" width="30" height="30" as="geometry" />
@@ -162,10 +162,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-DMolXW_4zz7l10JoO-d-46" value="比赛类别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="700" width="50" height="30" as="geometry" />
+          <mxGeometry x="375" y="720" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-DMolXW_4zz7l10JoO-d-48" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="692.5" width="80" height="45" as="geometry" />
+          <mxGeometry x="510" y="712.5" width="80" height="45" as="geometry" />
         </mxCell>
         <mxCell id="-DMolXW_4zz7l10JoO-d-49" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-DMolXW_4zz7l10JoO-d-46" target="-DMolXW_4zz7l10JoO-d-48">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
