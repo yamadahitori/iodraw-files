@@ -217,13 +217,14 @@
         <mxCell id="1mWbBf2fYu8rNzJaeXx9-11" value="分析订单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="545" y="818" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1mWbBf2fYu8rNzJaeXx9-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1mWbBf2fYu8rNzJaeXx9-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500" y="790" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1mWbBf2fYu8rNzJaeXx9-13" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1mWbBf2fYu8rNzJaeXx9-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.711;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="1mWbBf2fYu8rNzJaeXx9-13" target="TK_FBJooNod4MC-W3u7M-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="950" as="sourcePoint" />
+            <mxPoint x="590" y="900" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
