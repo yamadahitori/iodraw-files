@@ -170,7 +170,7 @@
           <mxGeometry x="60" y="450" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-41" value="用户信用调整信息、异常行为报告" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-15;" vertex="1" parent="1">
-          <mxGeometry x="140" y="530" width="200" height="30" as="geometry" />
+          <mxGeometry x="140" y="515" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
