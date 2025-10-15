@@ -89,7 +89,7 @@
           <mxGeometry x="160" y="590" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-7" value="用户信息、信用等级显示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=25;" vertex="1" parent="1">
-          <mxGeometry x="110" y="630" width="160" height="30" as="geometry" />
+          <mxGeometry x="120" y="640" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
