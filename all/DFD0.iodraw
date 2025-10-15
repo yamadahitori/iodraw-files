@@ -181,8 +181,8 @@
             <mxPoint x="590" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1mWbBf2fYu8rNzJaeXx9-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="385" y="738" width="50" height="30" as="geometry" />
+        <mxCell id="1mWbBf2fYu8rNzJaeXx9-2" value="用户信用等级" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="738" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
