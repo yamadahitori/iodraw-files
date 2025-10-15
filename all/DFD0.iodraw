@@ -65,115 +65,115 @@
           <mxGeometry x="395" y="178" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-2" value="用户管理模块" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="515" width="120" height="80" as="geometry" />
+          <mxGeometry x="50" y="905" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-3" value="商品管理模块" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="670" width="120" height="80" as="geometry" />
+          <mxGeometry x="390" y="1060" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-6" value="已认证身份信息、&lt;div&gt;注册信息查询、&lt;div&gt;信息修改请求&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="975" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-7" value="用户信息、&lt;div&gt;信用等级显示&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="595" width="100" height="40" as="geometry" />
+          <mxGeometry x="-20" y="985" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.85;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TK_FBJooNod4MC-W3u7M-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="102" y="740" as="sourcePoint" />
-            <mxPoint x="102" y="580" as="targetPoint" />
+            <mxPoint x="152" y="1130" as="sourcePoint" />
+            <mxPoint x="152" y="970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.156;entryY=-0.022;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TK_FBJooNod4MC-W3u7M-2" target="TK_FBJooNod4MC-W3u7M-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="19" y="590" as="sourcePoint" />
-            <mxPoint x="18" y="740" as="targetPoint" />
+            <mxPoint x="69" y="980" as="sourcePoint" />
+            <mxPoint x="68" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.036;entryY=0.683;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TK_FBJooNod4MC-W3u7M-1" target="TK_FBJooNod4MC-W3u7M-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-17" value="上传、编辑、浏览商品信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="140" y="720" width="170" height="30" as="geometry" />
+          <mxGeometry x="190" y="1110" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.028;exitY=0.317;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="TK_FBJooNod4MC-W3u7M-3" target="TK_FBJooNod4MC-W3u7M-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="570" as="sourcePoint" />
-            <mxPoint x="110" y="693" as="targetPoint" />
+            <mxPoint x="570" y="960" as="sourcePoint" />
+            <mxPoint x="160" y="1083" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-19" value="商品展示信息、发布结果、购买结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="668" width="220" height="30" as="geometry" />
+          <mxGeometry x="170" y="1058" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-20" value="商品数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="340" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-22" value="商品数据的增删改查操作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="235" y="800" width="160" height="30" as="geometry" />
+          <mxGeometry x="285" y="1190" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-23" value="交易撮合模块" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="670" width="120" height="80" as="geometry" />
+          <mxGeometry x="650" y="1060" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.05;entryY=0.725;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.939;exitY=0.725;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TK_FBJooNod4MC-W3u7M-3" target="TK_FBJooNod4MC-W3u7M-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="728" as="sourcePoint" />
-            <mxPoint x="570" y="720" as="targetPoint" />
+            <mxPoint x="510" y="1118" as="sourcePoint" />
+            <mxPoint x="620" y="1110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-25" value="用户商品信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="465" y="730" width="100" height="30" as="geometry" />
+          <mxGeometry x="515" y="1120" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.061;exitY=0.242;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.961;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TK_FBJooNod4MC-W3u7M-23" target="TK_FBJooNod4MC-W3u7M-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="670" as="sourcePoint" />
-            <mxPoint x="570" y="620" as="targetPoint" />
+            <mxPoint x="570" y="1060" as="sourcePoint" />
+            <mxPoint x="620" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-27" value="撮合结果反馈" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="470" y="668" width="100" height="30" as="geometry" />
+          <mxGeometry x="520" y="1058" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-28" value="订单数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="600" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-31" value="保存订单数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="560" y="790" width="100" height="30" as="geometry" />
+          <mxGeometry x="610" y="1180" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-32" value="系统管理与数据分析模块" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="420" width="120" height="80" as="geometry" />
+          <mxGeometry x="390" y="810" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-33" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TK_FBJooNod4MC-W3u7M-20" target="TK_FBJooNod4MC-W3u7M-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="670" as="sourcePoint" />
-            <mxPoint x="570" y="620" as="targetPoint" />
+            <mxPoint x="570" y="1060" as="sourcePoint" />
+            <mxPoint x="620" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TK_FBJooNod4MC-W3u7M-23" target="TK_FBJooNod4MC-W3u7M-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="670" as="sourcePoint" />
-            <mxPoint x="570" y="620" as="targetPoint" />
+            <mxPoint x="570" y="1060" as="sourcePoint" />
+            <mxPoint x="620" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.656;exitY=0.013;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.011;entryY=0.358;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TK_FBJooNod4MC-W3u7M-2" target="TK_FBJooNod4MC-W3u7M-32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="570" as="sourcePoint" />
-            <mxPoint x="570" y="520" as="targetPoint" />
+            <mxPoint x="570" y="960" as="sourcePoint" />
+            <mxPoint x="620" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.044;exitY=0.758;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.956;entryY=0.304;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TK_FBJooNod4MC-W3u7M-32" target="TK_FBJooNod4MC-W3u7M-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="570" as="sourcePoint" />
-            <mxPoint x="570" y="520" as="targetPoint" />
+            <mxPoint x="570" y="960" as="sourcePoint" />
+            <mxPoint x="620" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-40" value="用户统计数据、实名认证信息，信息修改请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-15;" vertex="1" parent="1">
-          <mxGeometry x="80" y="460" width="260" height="30" as="geometry" />
+          <mxGeometry x="130" y="850" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-41" value="用户信用调整信息、异常行为报告" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-15;" vertex="1" parent="1">
-          <mxGeometry x="140" y="515" width="200" height="30" as="geometry" />
+          <mxGeometry x="190" y="905" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-42" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="480" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
