@@ -38,13 +38,19 @@
           <mxGeometry x="520" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PIvPnw4FM1poJm-xVsj5-16" value="管理员操作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="430" y="280" width="80" height="30" as="geometry" />
+          <mxGeometry x="420" y="250" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PIvPnw4FM1poJm-xVsj5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.022;entryY=0.683;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PIvPnw4FM1poJm-xVsj5-1" target="PIvPnw4FM1poJm-xVsj5-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PIvPnw4FM1poJm-xVsj5-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.994;entryY=0.692;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PIvPnw4FM1poJm-xVsj5-14" target="PIvPnw4FM1poJm-xVsj5-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PIvPnw4FM1poJm-xVsj5-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="350" as="sourcePoint" />
+            <mxPoint x="520" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
