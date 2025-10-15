@@ -85,6 +85,9 @@
             <mxPoint x="520" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TK_FBJooNod4MC-W3u7M-6" value="注册信息、 信息修改请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="578" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
