@@ -32,7 +32,7 @@
           <mxGeometry x="150" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PIvPnw4FM1poJm-xVsj5-13" value="已认证身份信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="160" y="300" width="110" height="30" as="geometry" />
+          <mxGeometry x="170" y="250" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PIvPnw4FM1poJm-xVsj5-14" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="200" width="120" height="60" as="geometry" />
