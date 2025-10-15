@@ -1,0 +1,70 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="-dRuxsGu5hC4rxR8BYU4">
+    <mxGraphModel dx="2288" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PIvPnw4FM1poJm-xVsj5-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PIvPnw4FM1poJm-xVsj5-3" value="校园二手交易平台" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PIvPnw4FM1poJm-xVsj5-4" value="统一身份认证系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PIvPnw4FM1poJm-xVsj5-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.164;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="PIvPnw4FM1poJm-xVsj5-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="200" as="sourcePoint" />
+            <mxPoint x="520" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PIvPnw4FM1poJm-xVsj5-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.833;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.836;entryY=-0.022;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PIvPnw4FM1poJm-xVsj5-4" target="PIvPnw4FM1poJm-xVsj5-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="350" as="sourcePoint" />
+            <mxPoint x="520" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PIvPnw4FM1poJm-xVsj5-10" value="认证请求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PIvPnw4FM1poJm-xVsj5-12" value="认证结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PIvPnw4FM1poJm-xVsj5-13" value="已认证身份信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="170" y="250" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PIvPnw4FM1poJm-xVsj5-14" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PIvPnw4FM1poJm-xVsj5-16" value="管理员操作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="420" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PIvPnw4FM1poJm-xVsj5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.022;entryY=0.683;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PIvPnw4FM1poJm-xVsj5-1" target="PIvPnw4FM1poJm-xVsj5-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PIvPnw4FM1poJm-xVsj5-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.994;entryY=0.692;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PIvPnw4FM1poJm-xVsj5-14" target="PIvPnw4FM1poJm-xVsj5-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PIvPnw4FM1poJm-xVsj5-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" target="PIvPnw4FM1poJm-xVsj5-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="279" y="215" as="sourcePoint" />
+            <mxPoint x="520" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PIvPnw4FM1poJm-xVsj5-25" value="商品信息、交易状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="160" y="178" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PIvPnw4FM1poJm-xVsj5-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" target="PIvPnw4FM1poJm-xVsj5-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="404" y="215" as="sourcePoint" />
+            <mxPoint x="520" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PIvPnw4FM1poJm-xVsj5-27" value="审核结果、数据报表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="395" y="178" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
