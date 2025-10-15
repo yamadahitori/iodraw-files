@@ -37,8 +37,8 @@
         <mxCell id="PIvPnw4FM1poJm-xVsj5-14" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PIvPnw4FM1poJm-xVsj5-16" value="管理员操作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="420" y="250" width="80" height="30" as="geometry" />
+        <mxCell id="PIvPnw4FM1poJm-xVsj5-16" value="管理请求 、&lt;div&gt;&amp;nbsp;审核指令&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="415" y="245" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PIvPnw4FM1poJm-xVsj5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.022;entryY=0.683;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PIvPnw4FM1poJm-xVsj5-1" target="PIvPnw4FM1poJm-xVsj5-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -236,7 +236,7 @@
           <mxGeometry x="425" y="690" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1mWbBf2fYu8rNzJaeXx9-20" value="审核结果 、&lt;div&gt;统计分析报告&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="723" width="100" height="40" as="geometry" />
+          <mxGeometry x="520" y="720" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
