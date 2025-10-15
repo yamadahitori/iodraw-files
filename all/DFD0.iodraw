@@ -127,8 +127,8 @@
             <mxPoint x="570" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TK_FBJooNod4MC-W3u7M-25" value="可售商品信息流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="460" y="730" width="110" height="30" as="geometry" />
+        <mxCell id="TK_FBJooNod4MC-W3u7M-25" value="用户商品信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="465" y="730" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
