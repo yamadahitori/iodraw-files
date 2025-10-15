@@ -16,7 +16,7 @@
         <mxCell id="PIvPnw4FM1poJm-xVsj5-4" value="统一身份认证系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PIvPnw4FM1poJm-xVsj5-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.164;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="PIvPnw4FM1poJm-xVsj5-4">
+        <mxCell id="PIvPnw4FM1poJm-xVsj5-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.164;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PIvPnw4FM1poJm-xVsj5-10" target="PIvPnw4FM1poJm-xVsj5-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="60" y="200" as="sourcePoint" />
             <mxPoint x="520" y="300" as="targetPoint" />
@@ -28,8 +28,14 @@
             <mxPoint x="520" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="PIvPnw4FM1poJm-xVsj5-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.164;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="PIvPnw4FM1poJm-xVsj5-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="200" as="sourcePoint" />
+            <mxPoint x="60" y="92" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PIvPnw4FM1poJm-xVsj5-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="310" width="60" height="30" as="geometry" />
+          <mxGeometry x="30" y="130" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
