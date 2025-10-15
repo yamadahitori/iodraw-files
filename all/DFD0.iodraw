@@ -121,7 +121,7 @@
         <mxCell id="TK_FBJooNod4MC-W3u7M-23" value="交易撮合模块" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="670" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TK_FBJooNod4MC-W3u7M-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.961;exitY=0.283;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TK_FBJooNod4MC-W3u7M-3">
+        <mxCell id="TK_FBJooNod4MC-W3u7M-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="770" as="sourcePoint" />
             <mxPoint x="570" y="720" as="targetPoint" />
