@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="-dRuxsGu5hC4rxR8BYU4">
-    <mxGraphModel dx="1367" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2288" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -237,6 +237,93 @@
         </mxCell>
         <mxCell id="1mWbBf2fYu8rNzJaeXx9-20" value="审核结果 、&lt;div&gt;统计分析报告&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="720" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1mWbBf2fYu8rNzJaeXx9-21" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-155" y="1210" width="92" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1mWbBf2fYu8rNzJaeXx9-22" value="商品数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-108" y="1590" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1mWbBf2fYu8rNzJaeXx9-23" value="1. 商品信息维护" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="1337" width="175" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1mWbBf2fYu8rNzJaeXx9-24" value="2. 商品审核与发布" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-204" y="1463" width="191" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1mWbBf2fYu8rNzJaeXx9-25" value="3. 商品展示与检索" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-204" y="957" width="191" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1mWbBf2fYu8rNzJaeXx9-26" value="4. 库存与状态管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-133" y="830" width="191" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1mWbBf2fYu8rNzJaeXx9-27" value="5. 销售与统计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-109" y="1083" width="159" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1mWbBf2fYu8rNzJaeXx9-28" value="|&gt;  上传/编辑商品信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.11;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="1mWbBf2fYu8rNzJaeXx9-21" target="1mWbBf2fYu8rNzJaeXx9-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-192" y="1300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1mWbBf2fYu8rNzJaeXx9-29" value="|&gt;  商品数据提交" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.31;entryY=0.01;rounded=0;" edge="1" parent="1" source="1mWbBf2fYu8rNzJaeXx9-23" target="1mWbBf2fYu8rNzJaeXx9-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-192" y="1427" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1mWbBf2fYu8rNzJaeXx9-30" value="|&gt;  审核结果" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=0.01;entryX=0.99;entryY=1;rounded=0;" edge="1" parent="1" source="1mWbBf2fYu8rNzJaeXx9-24" target="1mWbBf2fYu8rNzJaeXx9-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-4" y="1427" />
+              <mxPoint x="-4" y="1300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1mWbBf2fYu8rNzJaeXx9-31" value="|&gt;  商品数据写入/读取" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.28;entryY=0;rounded=0;" edge="1" parent="1" source="1mWbBf2fYu8rNzJaeXx9-24" target="1mWbBf2fYu8rNzJaeXx9-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-109" y="1554" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1mWbBf2fYu8rNzJaeXx9-32" value="|&gt;  商品库存更新" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=1;entryX=0.92;entryY=0;rounded=0;" edge="1" parent="1" source="1mWbBf2fYu8rNzJaeXx9-26" target="1mWbBf2fYu8rNzJaeXx9-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="99" y="920" />
+              <mxPoint x="99" y="1554" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1mWbBf2fYu8rNzJaeXx9-33" value="|&gt;  展示数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.32;exitY=0.99;entryX=0.13;entryY=0;rounded=0;" edge="1" parent="1" source="1mWbBf2fYu8rNzJaeXx9-25" target="1mWbBf2fYu8rNzJaeXx9-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-188" y="1047" />
+              <mxPoint x="-188" y="1174" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1mWbBf2fYu8rNzJaeXx9-34" value="|&gt;  库存数据调用" style="curved=1;startArrow=none;endArrow=block;exitX=0.34;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="1mWbBf2fYu8rNzJaeXx9-26" target="1mWbBf2fYu8rNzJaeXx9-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-109" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1mWbBf2fYu8rNzJaeXx9-35" value="|&gt;  销售记录与统计" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="1mWbBf2fYu8rNzJaeXx9-25" target="1mWbBf2fYu8rNzJaeXx9-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-29" y="1047" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1mWbBf2fYu8rNzJaeXx9-36" value="|&gt;  统计结果反馈" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.87;entryY=0;rounded=0;" edge="1" parent="1" source="1mWbBf2fYu8rNzJaeXx9-27" target="1mWbBf2fYu8rNzJaeXx9-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-29" y="1174" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
