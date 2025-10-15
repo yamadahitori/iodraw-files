@@ -103,7 +103,7 @@
             <mxPoint x="110" y="693" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TK_FBJooNod4MC-W3u7M-19" value="商品展示信息、发布结果、状态反馈" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TK_FBJooNod4MC-W3u7M-19" value="商品展示信息、发布结果、购买结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="120" y="668" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-20" value="商品数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
@@ -128,7 +128,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-25" value="可售商品信息流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="415" y="728" width="110" height="30" as="geometry" />
+          <mxGeometry x="460" y="730" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
