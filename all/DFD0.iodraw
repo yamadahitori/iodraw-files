@@ -185,7 +185,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1mWbBf2fYu8rNzJaeXx9-2" value="用户信用数据的增删改查操作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=25;" vertex="1" parent="1">
-          <mxGeometry x="220" y="760" width="180" height="30" as="geometry" />
+          <mxGeometry x="234" y="760" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1mWbBf2fYu8rNzJaeXx9-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TK_FBJooNod4MC-W3u7M-3" target="TK_FBJooNod4MC-W3u7M-32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -218,7 +218,7 @@
           <mxGeometry x="545" y="818" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1mWbBf2fYu8rNzJaeXx9-13" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1mWbBf2fYu8rNzJaeXx9-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.711;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="1mWbBf2fYu8rNzJaeXx9-13" target="TK_FBJooNod4MC-W3u7M-32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
