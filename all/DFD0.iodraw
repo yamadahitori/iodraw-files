@@ -136,8 +136,8 @@
             <mxPoint x="570" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TK_FBJooNod4MC-W3u7M-27" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="475" y="658" width="50" height="30" as="geometry" />
+        <mxCell id="TK_FBJooNod4MC-W3u7M-27" value="撮合结果反馈" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="658" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
