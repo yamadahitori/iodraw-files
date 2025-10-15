@@ -166,8 +166,8 @@
             <mxPoint x="570" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TK_FBJooNod4MC-W3u7M-40" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="125" y="458" width="50" height="30" as="geometry" />
+        <mxCell id="TK_FBJooNod4MC-W3u7M-40" value="用户统计数据、实名认证信息，信息修改请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="458" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
