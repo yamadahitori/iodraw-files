@@ -337,8 +337,8 @@
             <mxPoint x="40" y="1280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-30" value="数据库查询" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-44;" vertex="1" parent="1">
-          <mxGeometry x="-470" y="1368" width="80" height="30" as="geometry" />
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-30" value="数据库查询" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-50;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="1368" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
