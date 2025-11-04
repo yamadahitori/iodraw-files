@@ -428,7 +428,7 @@
           <mxGeometry x="-325" y="1688" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-55" value="库存与状态管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-176" y="1544" width="120" height="80" as="geometry" />
+          <mxGeometry x="-190" y="1544" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
