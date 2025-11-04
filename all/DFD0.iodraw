@@ -373,8 +373,8 @@
             <mxPoint x="-235" y="1313" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-41" value="整合完成的结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-331" y="1453" width="110" height="30" as="geometry" />
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-41" value="商品信息表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-316" y="1453" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-42" value="2.2商品发布与编辑" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-422" y="1783" width="120" height="80" as="geometry" />
@@ -425,7 +425,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-54" value="请求结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-345" y="1688" width="70" height="30" as="geometry" />
+          <mxGeometry x="-325" y="1688" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
