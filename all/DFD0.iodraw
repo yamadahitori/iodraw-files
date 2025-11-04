@@ -103,8 +103,8 @@
             <mxPoint x="-621" y="853" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TK_FBJooNod4MC-W3u7M-19" value="商品展示信息、发布结果、购买结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-611" y="828" width="220" height="30" as="geometry" />
+        <mxCell id="TK_FBJooNod4MC-W3u7M-19" value="商品展示信息、交易结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-581" y="828" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-20" value="商品数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-391" y="1030" width="120" height="60" as="geometry" />
