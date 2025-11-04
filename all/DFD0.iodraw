@@ -298,8 +298,14 @@
             <mxPoint x="230" y="1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-20" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-75" y="1298" width="50" height="30" as="geometry" />
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-20" value="提交审核" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-85" y="1298" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="1230" as="sourcePoint" />
+            <mxPoint x="230" y="1180" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
