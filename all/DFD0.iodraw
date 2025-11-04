@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="-dRuxsGu5hC4rxR8BYU4">
-    <mxGraphModel dx="3749" dy="1646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2218" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -237,103 +237,6 @@
         </mxCell>
         <mxCell id="1mWbBf2fYu8rNzJaeXx9-20" value="审核结果 、&lt;div&gt;统计分析报告&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="520" y="720" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="1mWbBf2fYu8rNzJaeXx9-37" value="用户管理模块" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="17" y="1720" width="156" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="1mWbBf2fYu8rNzJaeXx9-38" value="1. 订单生成与验证" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-102" y="1847" width="191" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="1mWbBf2fYu8rNzJaeXx9-39" value="商品管理模块" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="23" y="2353" width="156" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="1mWbBf2fYu8rNzJaeXx9-40" value="2. 撮合逻辑与匹配引擎" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-118" y="1973" width="223" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="1mWbBf2fYu8rNzJaeXx9-41" value="系统管理模块" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="418" y="1720" width="156" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="1mWbBf2fYu8rNzJaeXx9-42" value="4. 异常与风控检测" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="400" y="1847" width="191" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="1mWbBf2fYu8rNzJaeXx9-43" value="3. 支付与结算处理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-168" y="2100" width="191" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="1mWbBf2fYu8rNzJaeXx9-44" value="交易数据库" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-250" y="2227" width="140" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="1mWbBf2fYu8rNzJaeXx9-45" value="5. 交易结果与通知" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-60" y="2227" width="191" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="1mWbBf2fYu8rNzJaeXx9-46" value="订单请求" style="curved=1;startArrow=none;endArrow=block;exitX=0.22;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="1mWbBf2fYu8rNzJaeXx9-37" target="1mWbBf2fYu8rNzJaeXx9-38" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-7" y="1810" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1mWbBf2fYu8rNzJaeXx9-47" value="商品可售信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=0.01;entryX=0.83;entryY=1.01;rounded=0;" parent="1" source="1mWbBf2fYu8rNzJaeXx9-39" target="1mWbBf2fYu8rNzJaeXx9-40" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="166" y="2317" />
-              <mxPoint x="166" y="2064" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1mWbBf2fYu8rNzJaeXx9-48" value="风控策略/风险反馈" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=1;entryX=0.32;entryY=-0.01;rounded=0;" parent="1" source="1mWbBf2fYu8rNzJaeXx9-41" target="1mWbBf2fYu8rNzJaeXx9-42" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="414" y="1810" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1mWbBf2fYu8rNzJaeXx9-49" value="验证通过的订单" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="1mWbBf2fYu8rNzJaeXx9-38" target="1mWbBf2fYu8rNzJaeXx9-40" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1mWbBf2fYu8rNzJaeXx9-50" value="撮合成功订单" style="curved=1;startArrow=none;endArrow=block;exitX=0.37;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" parent="1" source="1mWbBf2fYu8rNzJaeXx9-40" target="1mWbBf2fYu8rNzJaeXx9-43" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-72" y="2064" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1mWbBf2fYu8rNzJaeXx9-51" value="结算数据写入" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="1mWbBf2fYu8rNzJaeXx9-43" target="1mWbBf2fYu8rNzJaeXx9-44" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-180" y="2190" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1mWbBf2fYu8rNzJaeXx9-52" value="交易记录与异常上报" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=-0.01;entryX=0.72;entryY=1;rounded=0;" parent="1" source="1mWbBf2fYu8rNzJaeXx9-42" target="1mWbBf2fYu8rNzJaeXx9-41" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="578" y="1810" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1mWbBf2fYu8rNzJaeXx9-53" value="支付状态反馈" style="curved=1;startArrow=none;endArrow=block;exitX=0.74;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="1mWbBf2fYu8rNzJaeXx9-43" target="1mWbBf2fYu8rNzJaeXx9-45" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="36" y="2190" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1mWbBf2fYu8rNzJaeXx9-54" value="交易通知与结果" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.08;entryX=1;entryY=0.94;rounded=0;" parent="1" source="1mWbBf2fYu8rNzJaeXx9-45" target="1mWbBf2fYu8rNzJaeXx9-37" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="303" y="2190" />
-              <mxPoint x="303" y="1810" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1mWbBf2fYu8rNzJaeXx9-55" value="商品库存更新请求" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.32;entryY=0.01;rounded=0;" parent="1" source="1mWbBf2fYu8rNzJaeXx9-45" target="1mWbBf2fYu8rNzJaeXx9-39" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="36" y="2317" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-1" value="DFD 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="298" width="60" height="30" as="geometry" />
