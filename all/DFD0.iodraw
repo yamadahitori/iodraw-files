@@ -500,7 +500,7 @@
           <mxGeometry x="420" y="1500" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-74" value="撮合结果反馈" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="410" y="1417" width="100" height="30" as="geometry" />
+          <mxGeometry x="280" y="1317" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-75" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.902;entryY=0.275;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -599,8 +599,8 @@
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-95" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="860" y="1530" as="sourcePoint" />
-            <mxPoint x="910" y="1480" as="targetPoint" />
+            <mxPoint x="700" y="1489" as="sourcePoint" />
+            <mxPoint x="890" y="1489" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
