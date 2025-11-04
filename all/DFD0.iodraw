@@ -169,8 +169,8 @@
             <mxPoint x="620" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TK_FBJooNod4MC-W3u7M-40" value="用户统计数据、实名认证信息，信息修改请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-1;" parent="1" vertex="1">
-          <mxGeometry x="-110" y="810" width="260" height="30" as="geometry" />
+        <mxCell id="TK_FBJooNod4MC-W3u7M-40" value="用户统计数据、实名认证信息，&lt;div&gt;信息修改请求&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-1;" parent="1" vertex="1">
+          <mxGeometry x="-65" y="790" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-41" value="用户信用调整信息、异常行为报告" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-15;" parent="1" vertex="1">
           <mxGeometry x="190" y="905" width="200" height="30" as="geometry" />
