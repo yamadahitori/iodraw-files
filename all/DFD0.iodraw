@@ -663,6 +663,9 @@
             <mxPoint x="650" y="1320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-120" value="风险交易反馈" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1348" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
