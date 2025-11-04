@@ -454,9 +454,9 @@
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-60" value="商品信息表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-295" y="1539" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-61" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.998;exitY=0.275;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BOWB6wUPp4Y1AT6R1pQY-55">
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-61" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="1530" as="sourcePoint" />
+            <mxPoint x="-80" y="1566" as="sourcePoint" />
             <mxPoint x="100" y="1566" as="targetPoint" />
           </mxGeometry>
         </mxCell>
