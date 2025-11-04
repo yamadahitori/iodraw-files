@@ -630,13 +630,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-135" value="数据分析" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="1439" width="120" height="80" as="geometry" />
+          <mxGeometry x="2018" y="1425" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-136" value="交易撮合模块" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="1654" width="120" height="80" as="geometry" />
+          <mxGeometry x="2018" y="1671" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-137" value="交易记录数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2210" y="1450" width="120" height="60" as="geometry" />
+          <mxGeometry x="2290" y="1435" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
