@@ -356,7 +356,7 @@
           <mxGeometry x="-886" y="1488" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-36" value="商品数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-650" y="1458" width="120" height="60" as="geometry" />
+          <mxGeometry x="-547" y="1453" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-37" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOWB6wUPp4Y1AT6R1pQY-32" target="BOWB6wUPp4Y1AT6R1pQY-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -364,7 +364,7 @@
             <mxPoint x="-440" y="1230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-38" value="数据库查找操作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=30;" vertex="1" parent="1">
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-38" value="数据库查找操作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=15;" vertex="1" parent="1">
           <mxGeometry x="-690" y="1384" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="BOWB6wUPp4Y1AT6R1pQY-31">
@@ -374,7 +374,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-41" value="整合完成的结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-775" y="1468" width="110" height="30" as="geometry" />
+          <mxGeometry x="-736" y="1480" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
