@@ -319,8 +319,14 @@
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-25" value="用户信息数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-230" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-26" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-165" y="1228" width="50" height="30" as="geometry" />
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-26" value="用户信息数据的增删改查操作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="1220" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="1330" as="sourcePoint" />
+            <mxPoint x="110" y="1280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
