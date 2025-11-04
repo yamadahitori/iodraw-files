@@ -596,7 +596,7 @@
             <mxPoint x="1980" y="1440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-127" value="&lt;div&gt;&amp;nbsp;审核指令&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-127" value="&lt;div&gt;审核结果&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2065" y="1244" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
