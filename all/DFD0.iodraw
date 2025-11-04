@@ -648,7 +648,7 @@
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-110" value="系统管理与数据分析模块" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="1267" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-115" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-115" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.014;exitY=0.372;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.468;entryY=1.066;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BOWB6wUPp4Y1AT6R1pQY-76" target="BOWB6wUPp4Y1AT6R1pQY-110">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="1340" as="sourcePoint" />
             <mxPoint x="570" y="1290" as="targetPoint" />
