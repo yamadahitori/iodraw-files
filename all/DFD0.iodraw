@@ -657,7 +657,7 @@
           <mxGeometry x="1890" y="1579" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-143" value="商品管理模块" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1534" y="1564" width="120" height="80" as="geometry" />
+          <mxGeometry x="1550" y="1459" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-144" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.709;exitY=0.052;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOWB6wUPp4Y1AT6R1pQY-143" target="BOWB6wUPp4Y1AT6R1pQY-124">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -672,13 +672,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-147" value="商品发布请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-40;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="1438" width="100" height="30" as="geometry" />
+          <mxGeometry x="1670" y="1370" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-148" value="审核结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-40;" vertex="1" parent="1">
-          <mxGeometry x="1740" y="1479" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-149" value="销售数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-20;" vertex="1" parent="1">
-          <mxGeometry x="1790" y="1559" width="70" height="30" as="geometry" />
+          <mxGeometry x="1750" y="1425" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
