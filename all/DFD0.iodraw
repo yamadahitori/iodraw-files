@@ -304,7 +304,7 @@
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-22" value="审核反馈" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-80" y="1360" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.395;entryY=1.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TK_FBJooNod4MC-W3u7M-2" target="TK_FBJooNod4MC-W3u7M-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="750" as="sourcePoint" />
             <mxPoint x="230" y="700" as="targetPoint" />
