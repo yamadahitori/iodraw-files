@@ -492,9 +492,12 @@
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.988;exitY=0.661;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-208" y="1508" as="sourcePoint" />
-            <mxPoint x="3" y="1508" as="targetPoint" />
+            <mxPoint x="370" y="1490" as="sourcePoint" />
+            <mxPoint x="581" y="1490" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-73" value="交易信息表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1500" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
