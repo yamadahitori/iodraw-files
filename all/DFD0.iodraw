@@ -358,11 +358,14 @@
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-36" value="商品数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-650" y="1458" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-37" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-37" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOWB6wUPp4Y1AT6R1pQY-32" target="BOWB6wUPp4Y1AT6R1pQY-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-490" y="1280" as="sourcePoint" />
             <mxPoint x="-440" y="1230" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-38" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-665" y="1398" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
