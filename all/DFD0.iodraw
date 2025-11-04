@@ -478,11 +478,14 @@
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-67" value="商品信息增删改查操作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-278" y="1392" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.012;exitY=0.699;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOWB6wUPp4Y1AT6R1pQY-55" target="BOWB6wUPp4Y1AT6R1pQY-31">
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.005;exitY=0.656;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOWB6wUPp4Y1AT6R1pQY-55" target="BOWB6wUPp4Y1AT6R1pQY-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-320" y="1430" as="sourcePoint" />
             <mxPoint x="-270" y="1380" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-69" value="交易结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-435" y="1498" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
