@@ -319,9 +319,6 @@
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-25" value="用户信息数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1350" y="1169" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-26" value="用户信息数据的增删改查操作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1290" y="1279" width="180" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.264;exitY=1.012;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOWB6wUPp4Y1AT6R1pQY-15" target="BOWB6wUPp4Y1AT6R1pQY-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1060" y="1379" as="sourcePoint" />
@@ -330,9 +327,6 @@
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-28" value="请求结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1380" y="1509" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-30" value="数据库查找操作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-50;" vertex="1" parent="1">
-          <mxGeometry x="-1555" y="1417" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-31" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-569" y="1453" width="120" height="60" as="geometry" />
