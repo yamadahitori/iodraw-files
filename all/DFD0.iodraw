@@ -442,8 +442,8 @@
             <mxPoint x="-20" y="1660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-58" value="商品信息表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-325" y="1471" width="80" height="30" as="geometry" />
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-58" value="商品信息表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-50;" vertex="1" parent="1">
+          <mxGeometry x="-241" y="1723" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
