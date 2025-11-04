@@ -331,8 +331,8 @@
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-28" value="请求结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1380" y="1509" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-30" value="数据库查询" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-50;" vertex="1" parent="1">
-          <mxGeometry x="-1540" y="1417" width="80" height="30" as="geometry" />
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-30" value="数据库查找操作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-50;" vertex="1" parent="1">
+          <mxGeometry x="-1555" y="1417" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-31" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-569" y="1453" width="120" height="60" as="geometry" />
@@ -481,7 +481,7 @@
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-69" value="交易结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-427" y="1500" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-70" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-70" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.154;entryY=1.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BOWB6wUPp4Y1AT6R1pQY-7" target="BOWB6wUPp4Y1AT6R1pQY-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1300" y="1440" as="sourcePoint" />
             <mxPoint x="-1250" y="1390" as="targetPoint" />
