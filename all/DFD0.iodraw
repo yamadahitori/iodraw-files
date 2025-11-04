@@ -599,6 +599,15 @@
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-127" value="&lt;div&gt;审核结果&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2065" y="1244" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-128" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.949;exitY=0.676;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.046;entryY=0.658;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BOWB6wUPp4Y1AT6R1pQY-124" target="BOWB6wUPp4Y1AT6R1pQY-125">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1930" y="1490" as="sourcePoint" />
+            <mxPoint x="1980" y="1440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-129" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2065" y="1308" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
