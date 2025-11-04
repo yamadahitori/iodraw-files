@@ -500,7 +500,7 @@
           <mxGeometry x="420" y="1500" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-74" value="撮合结果反馈" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-35;" vertex="1" parent="1">
-          <mxGeometry x="500" y="1359" width="100" height="30" as="geometry" />
+          <mxGeometry x="474" y="1325" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-75" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.902;entryY=0.275;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.038;exitY=0.676;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BOWB6wUPp4Y1AT6R1pQY-105">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
