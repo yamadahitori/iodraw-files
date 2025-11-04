@@ -407,13 +407,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-50" value="提交审核" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-536" y="1760" width="70" height="30" as="geometry" />
+          <mxGeometry x="-526" y="1770" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.995;exitY=0.628;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.037;entryY=0.643;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BOWB6wUPp4Y1AT6R1pQY-48" target="BOWB6wUPp4Y1AT6R1pQY-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-390" y="1710" as="sourcePoint" />
             <mxPoint x="-340" y="1660" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-52" value="审核结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-535" y="1838" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
