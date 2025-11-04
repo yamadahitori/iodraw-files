@@ -511,6 +511,92 @@
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-76" value="交易信息接收与处理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="1443" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-77" value="买方 (Buyer)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="891" y="1790" width="149" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-78" value="交易信息接收与处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="576" y="1911" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-79" value="卖方 (Seller)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="668" y="1790" width="149" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-80" value="交易信息数据库 (Transactions)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="346" y="2033" width="172" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-81" value="一对一沟通渠道创建" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="636" y="2041" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-82" value="沟通渠道数据库 (CommunicationChannels)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="615" y="2172" width="247" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-83" value="线下交易安排与确认" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1911" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-84" value="交易完成与互评" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="944" y="1911" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-85" value="评价与评分数据库 (RatingsAndReviews)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="926" y="2033" width="208" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-86" value="提供交易信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.06;exitY=0.99;entryX=0.74;entryY=0.01;rounded=0;" edge="1" parent="1" source="BOWB6wUPp4Y1AT6R1pQY-77" target="BOWB6wUPp4Y1AT6R1pQY-78">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="802" y="1875" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-87" value="提供商品信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.16;exitY=0.99;entryX=0.38;entryY=0.01;rounded=0;" edge="1" parent="1" source="BOWB6wUPp4Y1AT6R1pQY-79" target="BOWB6wUPp4Y1AT6R1pQY-78">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="618" y="1875" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-88" value="生成交易记录" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=1;entryX=0.85;entryY=-0.01;rounded=0;" edge="1" parent="1" source="BOWB6wUPp4Y1AT6R1pQY-78" target="BOWB6wUPp4Y1AT6R1pQY-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="559" y="1996" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-89" value="生成沟通渠道" style="curved=1;startArrow=none;endArrow=block;exitX=0.62;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="BOWB6wUPp4Y1AT6R1pQY-78" target="BOWB6wUPp4Y1AT6R1pQY-81">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="738" y="1996" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-90" value="创建私密沟通平台" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="BOWB6wUPp4Y1AT6R1pQY-81" target="BOWB6wUPp4Y1AT6R1pQY-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-91" value="确认交易信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.33;entryY=-0.01;rounded=0;" edge="1" parent="1" source="BOWB6wUPp4Y1AT6R1pQY-83" target="BOWB6wUPp4Y1AT6R1pQY-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="372" y="1996" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-92" value="双方评价打分" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="BOWB6wUPp4Y1AT6R1pQY-84" target="BOWB6wUPp4Y1AT6R1pQY-85">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-93" value="交易完成后评价" style="curved=1;startArrow=none;endArrow=block;exitX=0.86;exitY=0.99;entryX=0.66;entryY=0.01;rounded=0;" edge="1" parent="1" source="BOWB6wUPp4Y1AT6R1pQY-77" target="BOWB6wUPp4Y1AT6R1pQY-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1098" y="1875" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-94" value="交易完成后评价" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.99;entryX=0.27;entryY=0.01;rounded=0;" edge="1" parent="1" source="BOWB6wUPp4Y1AT6R1pQY-79" target="BOWB6wUPp4Y1AT6R1pQY-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="1875" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
