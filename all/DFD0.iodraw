@@ -609,6 +609,9 @@
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-97" value="一对一沟通" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="891" y="1445" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-98" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1040" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
