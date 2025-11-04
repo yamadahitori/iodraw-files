@@ -143,7 +143,7 @@
           <mxGeometry x="725" y="955" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-32" value="4.系统管理与数据分析模块" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="810" width="120" height="80" as="geometry" />
+          <mxGeometry x="390" y="800" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-33" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="TK_FBJooNod4MC-W3u7M-20" target="TK_FBJooNod4MC-W3u7M-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -176,7 +176,7 @@
           <mxGeometry x="190" y="848" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-42" value="用户信息数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="60" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1mWbBf2fYu8rNzJaeXx9-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="TK_FBJooNod4MC-W3u7M-32" target="TK_FBJooNod4MC-W3u7M-42" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
