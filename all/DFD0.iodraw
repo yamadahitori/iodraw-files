@@ -499,8 +499,8 @@
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-73" value="交易信息表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="420" y="1500" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-74" value="撮合结果反馈" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-35;" vertex="1" parent="1">
-          <mxGeometry x="474" y="1325" width="100" height="30" as="geometry" />
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-74" value="撮合结果反馈" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="474" y="1249" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.038;exitY=0.676;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BOWB6wUPp4Y1AT6R1pQY-105">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -655,7 +655,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-116" value="提交用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=30;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1440" width="100" height="30" as="geometry" />
+          <mxGeometry x="450" y="1430" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
