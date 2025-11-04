@@ -271,14 +271,14 @@
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-13" value="信息修改请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-140" y="1460" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.722;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BOWB6wUPp4Y1AT6R1pQY-8" target="BOWB6wUPp4Y1AT6R1pQY-15">
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.743;entryY=1.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BOWB6wUPp4Y1AT6R1pQY-8" target="BOWB6wUPp4Y1AT6R1pQY-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="1320" as="sourcePoint" />
             <mxPoint x="-170" y="1370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-15" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="1330" width="120" height="80" as="geometry" />
+          <mxGeometry x="-230" y="1310" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
