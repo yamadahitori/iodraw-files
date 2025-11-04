@@ -502,12 +502,6 @@
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-74" value="撮合结果反馈" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=30;" vertex="1" parent="1">
           <mxGeometry x="474" y="1249" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.038;exitY=0.676;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BOWB6wUPp4Y1AT6R1pQY-105">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="1290" as="sourcePoint" />
-            <mxPoint x="410" y="1250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-76" value="交易信息接收与处理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="1443" width="120" height="80" as="geometry" />
         </mxCell>
@@ -664,7 +658,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-120" value="风险交易反馈" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=30;" vertex="1" parent="1">
-          <mxGeometry x="430" y="1348" width="100" height="30" as="geometry" />
+          <mxGeometry x="450" y="1359" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-121" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="1270" as="sourcePoint" />
+            <mxPoint x="410" y="1220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="1270" />
+              <mxPoint x="360" y="1220" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
