@@ -68,7 +68,7 @@
           <mxGeometry x="50" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-2" value="1.用户管理模块" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="905" width="120" height="80" as="geometry" />
+          <mxGeometry x="50" y="870" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-3" value="2.商品管理模块" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="1060" width="120" height="80" as="geometry" />
@@ -170,13 +170,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-40" value="用户统计数据、实名认证信息，&lt;div&gt;信息修改请求&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-1;" parent="1" vertex="1">
-          <mxGeometry x="-65" y="790" width="190" height="40" as="geometry" />
+          <mxGeometry x="-160" y="808" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-41" value="用户信用调整信息、异常行为报告" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-15;" parent="1" vertex="1">
           <mxGeometry x="190" y="905" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TK_FBJooNod4MC-W3u7M-42" value="用户信息数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="60" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1mWbBf2fYu8rNzJaeXx9-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="TK_FBJooNod4MC-W3u7M-32" target="TK_FBJooNod4MC-W3u7M-42" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
