@@ -418,6 +418,12 @@
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-52" value="审核结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-535" y="1838" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-210" y="1620" as="sourcePoint" />
+            <mxPoint x="-160" y="1570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
