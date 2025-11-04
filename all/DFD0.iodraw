@@ -457,6 +457,12 @@
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-62" value="3.交易撮合模块" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="1509" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.988;exitY=0.661;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BOWB6wUPp4Y1AT6R1pQY-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="1520" as="sourcePoint" />
+            <mxPoint x="140" y="1597" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
