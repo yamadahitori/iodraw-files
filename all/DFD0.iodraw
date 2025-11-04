@@ -245,7 +245,7 @@
           <mxGeometry x="354" y="1338" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-7" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1520" width="120" height="80" as="geometry" />
+          <mxGeometry x="125" y="1520" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-8" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-230" y="1530" width="120" height="60" as="geometry" />
@@ -253,7 +253,13 @@
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-9" value="&lt;div&gt;注册信息查询、&lt;div&gt;信息修改请求&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="-65" y="1480" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOWB6wUPp4Y1AT6R1pQY-8">
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.037;entryY=0.312;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BOWB6wUPp4Y1AT6R1pQY-8" target="BOWB6wUPp4Y1AT6R1pQY-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="1500" as="sourcePoint" />
+            <mxPoint x="230" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="1500" as="sourcePoint" />
             <mxPoint x="230" y="1450" as="targetPoint" />
