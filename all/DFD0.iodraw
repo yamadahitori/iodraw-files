@@ -476,7 +476,7 @@
           <mxGeometry x="-30" y="1538" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-67" value="商品信息增删改查操作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="1488" width="140" height="30" as="geometry" />
+          <mxGeometry x="-131" y="1491" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
