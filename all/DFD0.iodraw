@@ -680,8 +680,8 @@
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-147" value="商品发布请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-40;" vertex="1" parent="1">
           <mxGeometry x="1670" y="1438" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-148" value="审核结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1725" y="1498" width="70" height="30" as="geometry" />
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-148" value="审核结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-40;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="1479" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
