@@ -609,12 +609,12 @@
           <mxGeometry x="2068" y="1308" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-130" value="用户管理模块" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="1250" width="120" height="80" as="geometry" />
+          <mxGeometry x="1420" y="1265" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-131" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.918;exitY=0.233;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.063;entryY=0.233;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1500" y="1388.05" as="sourcePoint" />
-            <mxPoint x="1738" y="1388.05" as="targetPoint" />
+            <mxPoint x="1642" y="1304.52" as="sourcePoint" />
+            <mxPoint x="1880" y="1304.52" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
