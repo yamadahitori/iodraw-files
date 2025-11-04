@@ -427,7 +427,7 @@
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-54" value="请求结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-325" y="1688" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-55" value="库存与状态管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BOWB6wUPp4Y1AT6R1pQY-55" value="2.3库存与状态管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-190" y="1544" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BOWB6wUPp4Y1AT6R1pQY-56" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOWB6wUPp4Y1AT6R1pQY-55" target="BOWB6wUPp4Y1AT6R1pQY-36">
