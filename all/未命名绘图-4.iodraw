@@ -359,7 +359,7 @@
           <mxGeometry x="490" y="1960" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="g1pJswTxwtEIAmBkAMZJ-45" value="成交金额" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="2040" width="120" height="80" as="geometry" />
+          <mxGeometry x="360" y="2030" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="g1pJswTxwtEIAmBkAMZJ-46" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="2140" width="120" height="80" as="geometry" />
@@ -388,7 +388,7 @@
             <mxPoint x="400" y="1970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g1pJswTxwtEIAmBkAMZJ-51" value="" style="endArrow=none;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="g1pJswTxwtEIAmBkAMZJ-26">
+        <mxCell id="g1pJswTxwtEIAmBkAMZJ-51" value="" style="endArrow=none;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="g1pJswTxwtEIAmBkAMZJ-45" target="g1pJswTxwtEIAmBkAMZJ-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="2070" as="sourcePoint" />
             <mxPoint x="340" y="2020" as="targetPoint" />
