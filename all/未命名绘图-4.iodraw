@@ -241,7 +241,7 @@
         <mxCell id="g1pJswTxwtEIAmBkAMZJ-2" value="商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="2000" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g1pJswTxwtEIAmBkAMZJ-6" value="购买" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g1pJswTxwtEIAmBkAMZJ-6" value="交易" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="1880" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="g1pJswTxwtEIAmBkAMZJ-12" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
