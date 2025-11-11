@@ -241,19 +241,19 @@
         <mxCell id="g1pJswTxwtEIAmBkAMZJ-2" value="商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="2060" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g1pJswTxwtEIAmBkAMZJ-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="g1pJswTxwtEIAmBkAMZJ-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="g1pJswTxwtEIAmBkAMZJ-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="19.519999999999996" y="2060" as="sourcePoint" />
             <mxPoint x="19.519999999999996" y="1970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g1pJswTxwtEIAmBkAMZJ-5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g1pJswTxwtEIAmBkAMZJ-5" value="购买" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="1880" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="g1pJswTxwtEIAmBkAMZJ-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="1880" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g1pJswTxwtEIAmBkAMZJ-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="g1pJswTxwtEIAmBkAMZJ-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="g1pJswTxwtEIAmBkAMZJ-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="2060" as="sourcePoint" />
             <mxPoint x="140" y="1980" as="targetPoint" />
