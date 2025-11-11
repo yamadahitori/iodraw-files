@@ -403,6 +403,12 @@
         <mxCell id="g1pJswTxwtEIAmBkAMZJ-55" value="在售状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="2090" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="g1pJswTxwtEIAmBkAMZJ-56" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="g1pJswTxwtEIAmBkAMZJ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-170" y="2050" as="sourcePoint" />
+            <mxPoint x="-120" y="2000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
