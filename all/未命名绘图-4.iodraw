@@ -238,13 +238,13 @@
         <mxCell id="1mWbBf2fYu8rNzJaeXx9-20" value="审核结果 、&lt;div&gt;统计分析报告&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="520" y="720" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g1pJswTxwtEIAmBkAMZJ-2" value="商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g1pJswTxwtEIAmBkAMZJ-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;商品&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="2000" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g1pJswTxwtEIAmBkAMZJ-6" value="交易" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="1880" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g1pJswTxwtEIAmBkAMZJ-12" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g1pJswTxwtEIAmBkAMZJ-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;用户&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="1780" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g1pJswTxwtEIAmBkAMZJ-13" value="&lt;u&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;用户ID&lt;/font&gt;&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -343,7 +343,7 @@
             <mxPoint x="280" y="1920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g1pJswTxwtEIAmBkAMZJ-26" value="交易记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g1pJswTxwtEIAmBkAMZJ-26" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;交易记录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1890" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g1pJswTxwtEIAmBkAMZJ-41" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;产生时间&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
