@@ -268,6 +268,15 @@
             <mxPoint x="130" y="1830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="g1pJswTxwtEIAmBkAMZJ-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="g1pJswTxwtEIAmBkAMZJ-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="2000" as="sourcePoint" />
+            <mxPoint x="130" y="1950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g1pJswTxwtEIAmBkAMZJ-21" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1790" width="160" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
