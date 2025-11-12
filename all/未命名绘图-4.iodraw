@@ -128,10 +128,10 @@
           <mxGeometry x="814" y="2016" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="N5RNR_3I6zSb6GEGNxfy-30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;u&gt;商品ID&lt;/u&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="2140" width="120" height="80" as="geometry" />
+          <mxGeometry x="224" y="2130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="N5RNR_3I6zSb6GEGNxfy-31" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;卖家ID&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="344" y="2190" width="120" height="80" as="geometry" />
+          <mxGeometry x="319" y="2190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="N5RNR_3I6zSb6GEGNxfy-32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;定价&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="604" y="2196" width="120" height="80" as="geometry" />
@@ -227,7 +227,7 @@
           <mxGeometry x="489" y="2026" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Tg8goHbf_fQ6wPcaIkyr-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;商品名称&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="469" y="2200" width="120" height="80" as="geometry" />
+          <mxGeometry x="459" y="2210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Tg8goHbf_fQ6wPcaIkyr-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Tg8goHbf_fQ6wPcaIkyr-1" target="N5RNR_3I6zSb6GEGNxfy-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
