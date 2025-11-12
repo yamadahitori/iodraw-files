@@ -226,7 +226,10 @@
         <mxCell id="N5RNR_3I6zSb6GEGNxfy-52" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="489" y="2026" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Tg8goHbf_fQ6wPcaIkyr-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Tg8goHbf_fQ6wPcaIkyr-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tg8goHbf_fQ6wPcaIkyr-1" target="N5RNR_3I6zSb6GEGNxfy-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tg8goHbf_fQ6wPcaIkyr-1" value="商品名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="469" y="2200" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
