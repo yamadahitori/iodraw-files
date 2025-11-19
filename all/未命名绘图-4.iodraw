@@ -184,11 +184,14 @@
             <mxPoint x="510" y="2150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IxpSQjsxIt9JA5jWDvN5-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="IxpSQjsxIt9JA5jWDvN5-1" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="N5RNR_3I6zSb6GEGNxfy-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="1670" as="sourcePoint" />
             <mxPoint x="510" y="1620" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IxpSQjsxIt9JA5jWDvN5-2" value="发布/购买" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1790" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
