@@ -205,8 +205,11 @@
             <mxPoint x="250" y="1850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IxpSQjsxIt9JA5jWDvN5-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IxpSQjsxIt9JA5jWDvN5-6" value="审核" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="1976" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IxpSQjsxIt9JA5jWDvN5-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;发布/购买&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="459" y="1810" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
