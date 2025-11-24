@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="cz5e1DSb3pz0CczG3-Vh">
-    <mxGraphModel dx="2992" dy="97" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2586" dy="-140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N5RNR_3I6zSb6GEGNxfy-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;管理员&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="1693" width="160" height="60" as="geometry" />
+          <mxGeometry x="100" y="1693" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N5RNR_3I6zSb6GEGNxfy-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="N5RNR_3I6zSb6GEGNxfy-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -82,7 +82,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N5RNR_3I6zSb6GEGNxfy-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;u&gt;管理员ID&lt;/u&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-100" y="1600" width="120" height="80" as="geometry" />
+          <mxGeometry x="-60" y="1600" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="N5RNR_3I6zSb6GEGNxfy-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;昵称&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-100" y="1760" width="120" height="80" as="geometry" />
@@ -214,7 +214,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IxpSQjsxIt9JA5jWDvN5-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;审核&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="1810" width="140" height="80" as="geometry" />
+          <mxGeometry x="309" y="1803" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IxpSQjsxIt9JA5jWDvN5-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;产生&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="619" y="1680" width="140" height="80" as="geometry" />
