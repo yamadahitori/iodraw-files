@@ -352,11 +352,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hgSVeNvvFIHZ9cvJer9D-70" value="风险交易反馈" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-53" target="hgSVeNvvFIHZ9cvJer9D-59">
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-70" value="风险交易反馈" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=0.99;rounded=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-53">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="447" y="1694" />
             </Array>
+            <mxPoint x="480" y="1680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hgSVeNvvFIHZ9cvJer9D-71" value="商品发布审核" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
