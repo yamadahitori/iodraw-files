@@ -381,14 +381,13 @@
         <mxCell id="hgSVeNvvFIHZ9cvJer9D-77" value="反馈: 交易撮合模块" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="1">
           <mxGeometry x="480" y="1559" width="138" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="hgSVeNvvFIHZ9cvJer9D-79" value="分析结果" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=0.99;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="-0.1576" y="41" relative="1" as="geometry">
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-79" value="分析结果" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-53">
+          <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="457" y="1704" />
+              <mxPoint x="447" y="1559" />
             </Array>
-            <mxPoint x="361" y="1668" as="sourcePoint" />
-            <mxPoint x="490" y="1690" as="targetPoint" />
-            <mxPoint as="offset" />
+            <mxPoint x="351" y="1523" as="sourcePoint" />
+            <mxPoint x="480" y="1545" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
