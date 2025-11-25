@@ -272,6 +272,11 @@
         <mxCell id="hgSVeNvvFIHZ9cvJer9D-52" value="4.1 审核系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="233" y="1869" width="151" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-78" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="1560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hgSVeNvvFIHZ9cvJer9D-53" value="4.2 数据分析系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="194" y="1609" width="183" height="49" as="geometry" />
         </mxCell>
