@@ -359,7 +359,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hgSVeNvvFIHZ9cvJer9D-71" value="用户资质审核" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-71" value="商品发布审核" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="231" y="2120" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="hgSVeNvvFIHZ9cvJer9D-72" value="用户资质审核" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
