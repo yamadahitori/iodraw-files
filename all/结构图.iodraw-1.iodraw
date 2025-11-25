@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="2qWqjuSVte6t1WNMsNbQ">
-    <mxGraphModel dx="1108" dy="158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1835" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -272,11 +272,6 @@
         <mxCell id="hgSVeNvvFIHZ9cvJer9D-52" value="4.1 审核系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="233" y="1869" width="151" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="hgSVeNvvFIHZ9cvJer9D-78" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-53">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="1560" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hgSVeNvvFIHZ9cvJer9D-53" value="4.2 数据分析系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="194" y="1609" width="183" height="49" as="geometry" />
         </mxCell>
@@ -385,6 +380,16 @@
         </mxCell>
         <mxCell id="hgSVeNvvFIHZ9cvJer9D-77" value="反馈: 交易撮合模块" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="1">
           <mxGeometry x="480" y="1559" width="138" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-79" value="分析结果" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=0.99;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.1576" y="41" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="457" y="1704" />
+            </Array>
+            <mxPoint x="361" y="1668" as="sourcePoint" />
+            <mxPoint x="490" y="1690" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
