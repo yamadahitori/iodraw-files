@@ -352,7 +352,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hgSVeNvvFIHZ9cvJer9D-70" value="分析结果" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=0.99;rounded=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-53">
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-70" value="分析结果" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-53">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="447" y="1694" />
@@ -384,6 +384,7 @@
         <mxCell id="hgSVeNvvFIHZ9cvJer9D-79" value="分析结果" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-53">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="370" y="1550" />
               <mxPoint x="447" y="1559" />
             </Array>
             <mxPoint x="351" y="1523" as="sourcePoint" />
