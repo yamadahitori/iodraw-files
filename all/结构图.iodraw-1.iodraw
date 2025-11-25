@@ -356,6 +356,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-71" value="用户资质审核" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="2130" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-72" value="用户资质审核" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="100" y="2150" width="157" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
