@@ -71,7 +71,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hgSVeNvvFIHZ9cvJer9D-14" value="商品管理主控模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-14" value="商品管理主控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="266" y="380" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="hgSVeNvvFIHZ9cvJer9D-15" value="2.1 商品浏览与搜索" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
