@@ -171,6 +171,101 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-33" value="交易撮合主控模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="164" y="830" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-34" value="3.1 交易信息接收与处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="363" y="929" width="231" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-35" value="3.2 一对一沟通管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="304" y="1050" width="199" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-36" value="3.3 交易安排与确认" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="234" y="1171" width="199" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-37" value="3.4 生成完整交易记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="158" y="1293" width="215" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-38" value="交易记录数据库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1414" width="127" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-39" value="反馈: 商品模块" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="1">
+          <mxGeometry x="197" y="1433" width="138" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-40" value="反馈: 审核模块" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="1">
+          <mxGeometry x="385" y="1433" width="138" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.92;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-33" target="hgSVeNvvFIHZ9cvJer9D-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="479" y="904" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=0.99;entryX=0.35;entryY=0;rounded=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-33" target="hgSVeNvvFIHZ9cvJer9D-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="328" y="904" />
+              <mxPoint x="328" y="1014" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.48;exitY=0.99;entryX=0.33;entryY=0.01;rounded=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-33" target="hgSVeNvvFIHZ9cvJer9D-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="251" y="904" />
+              <mxPoint x="251" y="1135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=0.99;entryX=0.33;entryY=-0.01;rounded=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-33" target="hgSVeNvvFIHZ9cvJer9D-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="171" y="904" />
+              <mxPoint x="171" y="1256" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-45" value="用户与商品信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.65;entryY=0;rounded=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-34" target="hgSVeNvvFIHZ9cvJer9D-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="479" y="1014" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-46" value="沟通渠道建立" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.64;entryY=0.01;rounded=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-35" target="hgSVeNvvFIHZ9cvJer9D-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="404" y="1135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-47" value="达成交易信号" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.63;entryY=-0.01;rounded=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-36" target="hgSVeNvvFIHZ9cvJer9D-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="334" y="1256" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-48" value="写入" style="curved=1;startArrow=none;endArrow=block;exitX=0.16;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-37" target="hgSVeNvvFIHZ9cvJer9D-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="84" y="1378" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-49" value="撮合成功反馈" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-37" target="hgSVeNvvFIHZ9cvJer9D-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-50" value="风险/成功反馈" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-37" target="hgSVeNvvFIHZ9cvJer9D-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="455" y="1378" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
