@@ -266,7 +266,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hgSVeNvvFIHZ9cvJer9D-51" value="审核与分析主控中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-51" value="审核与分析主控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="118" y="1510" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="hgSVeNvvFIHZ9cvJer9D-52" value="4.1 审核系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
