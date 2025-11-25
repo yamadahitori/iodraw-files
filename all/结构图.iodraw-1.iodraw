@@ -291,7 +291,7 @@
           <mxGeometry x="367" y="1746" width="159" height="34" as="geometry" />
         </mxCell>
         <mxCell id="hgSVeNvvFIHZ9cvJer9D-60" value="管理员指令" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="1">
-          <mxGeometry x="495" y="1876" width="112" height="34" as="geometry" />
+          <mxGeometry x="422.5" y="1876.5" width="112" height="34" as="geometry" />
         </mxCell>
         <mxCell id="hgSVeNvvFIHZ9cvJer9D-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.02;exitY=0.99;entryX=0;entryY=0.17;rounded=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-51" target="hgSVeNvvFIHZ9cvJer9D-52">
           <mxGeometry relative="1" as="geometry">
@@ -327,7 +327,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hgSVeNvvFIHZ9cvJer9D-67" value="审核条目" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.56;entryY=0;rounded=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-60">
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-67" value="审核条目" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-60" target="hgSVeNvvFIHZ9cvJer9D-55">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="551" y="1954" />
