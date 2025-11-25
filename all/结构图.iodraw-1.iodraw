@@ -1,0 +1,77 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="2qWqjuSVte6t1WNMsNbQ">
+    <mxGraphModel dx="1461" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-1" value="用户管理主控模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="20" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-2" value="1.1 信息查询子模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="119" width="199" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-3" value="1.2 信息修改子模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="347" y="119" width="199" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-4" value="用户数据库读取" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="56" y="240" width="127" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-5" value="用户数据库更新" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="556" y="240" width="127" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-6" value="外部接口: 提交审核" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="1">
+          <mxGeometry x="294" y="259" width="171" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.15;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-1" target="hgSVeNvvFIHZ9cvJer9D-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="119" y="94" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-1" target="hgSVeNvvFIHZ9cvJer9D-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="447" y="94" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-9" value="1.调用查询" style="curved=1;startArrow=none;endArrow=block;exitX=0.38;exitY=0.99;entryX=0.27;entryY=0;rounded=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-2" target="hgSVeNvvFIHZ9cvJer9D-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="204" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-10" value="2.返回用户数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=0;entryX=0.62;entryY=0.99;rounded=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-4" target="hgSVeNvvFIHZ9cvJer9D-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="178" y="204" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-11" value="1.提交修改请求" style="curved=1;startArrow=none;endArrow=block;exitX=0.23;exitY=0.99;entryX=0.41;entryY=0;rounded=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-3" target="hgSVeNvvFIHZ9cvJer9D-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="313" y="204" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-12" value="2.返回审核反馈" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=0;entryX=0.5;entryY=0.99;rounded=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-6" target="hgSVeNvvFIHZ9cvJer9D-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="447" y="204" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-13" value="3.若通过,更新数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-3" target="hgSVeNvvFIHZ9cvJer9D-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="619" y="204" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
