@@ -278,11 +278,8 @@
         <mxCell id="hgSVeNvvFIHZ9cvJer9D-54" value="用户资质审核" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="24" y="1990" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="hgSVeNvvFIHZ9cvJer9D-55" value="商品发布审核" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-55" value="管理员人工审核" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="231" y="1990" width="157" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="hgSVeNvvFIHZ9cvJer9D-56" value="管理员人工审核" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="437" y="1990" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="hgSVeNvvFIHZ9cvJer9D-57" value="用户信息库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="77" y="1730" width="95" height="66" as="geometry" />
@@ -323,13 +320,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hgSVeNvvFIHZ9cvJer9D-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.83;exitY=0.99;entryX=0.29;entryY=0;rounded=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-52" target="hgSVeNvvFIHZ9cvJer9D-56">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="433" y="1954" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hgSVeNvvFIHZ9cvJer9D-66" value="修改/发布请求" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.87;entryY=-0.01;rounded=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-59" target="hgSVeNvvFIHZ9cvJer9D-52">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -337,11 +327,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hgSVeNvvFIHZ9cvJer9D-67" value="审核条目" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.56;entryY=0;rounded=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-60" target="hgSVeNvvFIHZ9cvJer9D-56">
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-67" value="审核条目" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.56;entryY=0;rounded=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-60">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="551" y="1954" />
             </Array>
+            <mxPoint x="533.8800000000001" y="1990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hgSVeNvvFIHZ9cvJer9D-68" value="读取" style="curved=1;startArrow=none;endArrow=block;exitX=0.15;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="hgSVeNvvFIHZ9cvJer9D-53" target="hgSVeNvvFIHZ9cvJer9D-57">
