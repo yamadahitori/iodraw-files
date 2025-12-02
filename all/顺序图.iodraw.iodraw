@@ -31,15 +31,6 @@
         <mxCell id="NQ_MrxQbJxPsJapJghnj-160" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="NQ_MrxQbJxPsJapJghnj-159">
           <mxGeometry x="70" y="361" width="10" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="NQ_MrxQbJxPsJapJghnj-161" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
-          <mxGeometry x="280" y="303" width="706" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="NQ_MrxQbJxPsJapJghnj-162" value="[撮合成功且合规]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="NQ_MrxQbJxPsJapJghnj-161">
-          <mxGeometry x="30" width="676" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="NQ_MrxQbJxPsJapJghnj-163" value="[撮合失败或违规]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="NQ_MrxQbJxPsJapJghnj-161">
-          <mxGeometry y="207" width="706" height="4" as="geometry" />
-        </mxCell>
         <mxCell id="NQ_MrxQbJxPsJapJghnj-164" value="提交交易请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="NQ_MrxQbJxPsJapJghnj-152" target="NQ_MrxQbJxPsJapJghnj-154">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
