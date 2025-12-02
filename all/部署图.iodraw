@@ -46,6 +46,9 @@
         <mxCell id="RwLyvkODWXp2XXuSvm7Z-24" value="商品数据库" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="935" y="300" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="RwLyvkODWXp2XXuSvm7Z-25" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="590" y="332" width="40" height="8" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
