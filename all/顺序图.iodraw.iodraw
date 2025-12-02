@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="TWmFfLo66qqZkcsuliCj">
-    <mxGraphModel dx="2248" dy="1266" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="80000" pageHeight="80000" math="0" shadow="0">
+    <mxGraphModel dx="1270" dy="716" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="80000" pageHeight="80000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -174,15 +174,6 @@
         </mxCell>
         <mxCell id="NQ_MrxQbJxPsJapJghnj-190" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="NQ_MrxQbJxPsJapJghnj-189">
           <mxGeometry x="70" y="413" width="10" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="NQ_MrxQbJxPsJapJghnj-191" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
-          <mxGeometry x="434" y="1054" width="913" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="NQ_MrxQbJxPsJapJghnj-192" value="[审核通过]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="NQ_MrxQbJxPsJapJghnj-191">
-          <mxGeometry x="30" width="883" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="NQ_MrxQbJxPsJapJghnj-193" value="[审核不通过]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="NQ_MrxQbJxPsJapJghnj-191">
-          <mxGeometry y="207" width="913" height="4" as="geometry" />
         </mxCell>
         <mxCell id="NQ_MrxQbJxPsJapJghnj-194" value="上传/编辑商品信息 (uploadProduct)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="NQ_MrxQbJxPsJapJghnj-182" target="NQ_MrxQbJxPsJapJghnj-184">
           <mxGeometry relative="1" as="geometry">
