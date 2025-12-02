@@ -64,7 +64,7 @@
             <mxPoint x="-128" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NQ_MrxQbJxPsJapJghnj-260" value="[需要人工介入] 发送审核请求/指令" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="NQ_MrxQbJxPsJapJghnj-248" target="NQ_MrxQbJxPsJapJghnj-250">
+        <mxCell id="NQ_MrxQbJxPsJapJghnj-260" value="发送审核请求/指令" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="NQ_MrxQbJxPsJapJghnj-248" target="NQ_MrxQbJxPsJapJghnj-250">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="777" y="789" />
