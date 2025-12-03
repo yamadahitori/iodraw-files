@@ -104,7 +104,7 @@
         <mxCell id="x2bho4xLaQBrLYbkl1lD-117" value="商品管理构件" style="whiteSpace=wrap;strokeWidth=2;shape=module;spacingLeft=20;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="888" y="630" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="x2bho4xLaQBrLYbkl1lD-118" value="交易撮合构件" style="whiteSpace=wrap;strokeWidth=2;shape=module;spacingLeft=20;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="x2bho4xLaQBrLYbkl1lD-118" value="交易撮合构件&lt;div&gt;Match.exe&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;strokeWidth=2;shape=module;spacingLeft=20;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="751" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-119" value="系统审核构件" style="whiteSpace=wrap;strokeWidth=2;shape=module;spacingLeft=20;verticalAlign=top;html=1;" vertex="1" parent="1">
