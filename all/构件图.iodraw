@@ -138,19 +138,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-162" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;商品管理构件&lt;/span&gt;Product.exe&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;strokeWidth=2;shape=module;spacingLeft=20;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860.5" y="1020" width="130" height="40" as="geometry" />
+          <mxGeometry x="860.5" y="930" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-163" value="" style="curved=1;startArrow=none;endArrow=oval;endSize=10;endFill=1;exitX=1;exitY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="x2bho4xLaQBrLYbkl1lD-162">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="878.5" y="945" as="sourcePoint" />
-            <mxPoint x="1020" y="1040" as="targetPoint" />
+            <mxPoint x="878.5" y="855" as="sourcePoint" />
+            <mxPoint x="1020" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-166" value="审核分析子系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="685" y="1010" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-167" value="商品管理子系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="1025" width="110" height="30" as="geometry" />
+          <mxGeometry x="1020" y="935" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-168" value="交易撮合子系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1020" y="804.5" width="110" height="30" as="geometry" />
@@ -198,15 +198,6 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="910" y="910" as="sourcePoint" />
             <mxPoint x="1020" y="1040" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="x2bho4xLaQBrLYbkl1lD-180" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="908" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="x2bho4xLaQBrLYbkl1lD-182" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.09;exitY=0.688;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="845.7" y="925.52" as="sourcePoint" />
-            <mxPoint x="700" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
