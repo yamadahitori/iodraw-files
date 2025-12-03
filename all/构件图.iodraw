@@ -147,13 +147,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-166" value="用户管理子系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="620" y="770.5" width="110" height="30" as="geometry" />
+          <mxGeometry x="740" y="850" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-167" value="用户管理子系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="630" y="780.5" width="110" height="30" as="geometry" />
+          <mxGeometry x="1070" y="850" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-168" value="用户管理子系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="640" y="790.5" width="110" height="30" as="geometry" />
+          <mxGeometry x="857.5" y="760.5" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
