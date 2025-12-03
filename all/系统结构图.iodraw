@@ -8,10 +8,10 @@
           <mxGeometry x="2181" y="317" width="382" height="99" as="geometry" />
         </mxCell>
         <mxCell id="TusFeVgvLDOQ6j0ooIX6-57" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1607" y="100" width="920" height="168" as="geometry" />
+          <mxGeometry x="1607" y="170" width="920" height="98" as="geometry" />
         </mxCell>
         <mxCell id="TusFeVgvLDOQ6j0ooIX6-56" value="数据层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1605" y="317" width="556" height="99" as="geometry" />
+          <mxGeometry x="1605" y="317" width="395" height="99" as="geometry" />
         </mxCell>
         <mxCell id="TusFeVgvLDOQ6j0ooIX6-58" value="客户端层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1600" y="20" width="370" height="99" as="geometry" />
@@ -33,9 +33,6 @@
         </mxCell>
         <mxCell id="TusFeVgvLDOQ6j0ooIX6-65" value="MySQL 数据库" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1647" y="342" width="129" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="TusFeVgvLDOQ6j0ooIX6-66" value="Redis 缓存" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1970" y="342" width="104" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TusFeVgvLDOQ6j0ooIX6-67" value="文件存储" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1826" y="342" width="94" height="49" as="geometry" />
@@ -66,11 +63,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TusFeVgvLDOQ6j0ooIX6-74" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.18;rounded=0;" edge="1" parent="1" source="TusFeVgvLDOQ6j0ooIX6-62" target="TusFeVgvLDOQ6j0ooIX6-66">
+        <mxCell id="TusFeVgvLDOQ6j0ooIX6-74" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.18;rounded=0;" edge="1" parent="1" source="TusFeVgvLDOQ6j0ooIX6-62">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1861" y="317" />
             </Array>
+            <mxPoint x="1970" y="350.81999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TusFeVgvLDOQ6j0ooIX6-75" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.92;exitY=0.99;entryX=0.86;entryY=0.01;rounded=0;" edge="1" parent="1" source="TusFeVgvLDOQ6j0ooIX6-62" target="TusFeVgvLDOQ6j0ooIX6-67">
@@ -89,12 +87,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TusFeVgvLDOQ6j0ooIX6-77" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.44;exitY=0.99;entryX=0.83;entryY=0.01;rounded=0;" edge="1" parent="1" source="TusFeVgvLDOQ6j0ooIX6-63" target="TusFeVgvLDOQ6j0ooIX6-66">
+        <mxCell id="TusFeVgvLDOQ6j0ooIX6-77" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.44;exitY=0.99;entryX=0.83;entryY=0.01;rounded=0;" edge="1" parent="1" source="TusFeVgvLDOQ6j0ooIX6-63">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2091" y="267" />
               <mxPoint x="2091" y="317" />
             </Array>
+            <mxPoint x="2057.0204081632655" y="342" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TusFeVgvLDOQ6j0ooIX6-78" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.9;entryX=1;entryY=0.34;rounded=0;" edge="1" parent="1" source="TusFeVgvLDOQ6j0ooIX6-64" target="TusFeVgvLDOQ6j0ooIX6-65">
