@@ -99,7 +99,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-116" value="用户管理构件&lt;div&gt;User.exe&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;strokeWidth=2;shape=module;spacingLeft=20;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="751" width="156" height="49" as="geometry" />
+          <mxGeometry x="480" y="760" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-117" value="商品管理构件" style="whiteSpace=wrap;strokeWidth=2;shape=module;spacingLeft=20;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="888" y="630" width="156" height="49" as="geometry" />
@@ -172,13 +172,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="x2bho4xLaQBrLYbkl1lD-134" value="" style="curved=1;startArrow=none;endArrow=oval;endSize=10;endFill=1;exitX=1;exitY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="x2bho4xLaQBrLYbkl1lD-134" value="" style="curved=1;startArrow=none;endArrow=oval;endSize=10;endFill=1;exitX=1;exitY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="x2bho4xLaQBrLYbkl1lD-116">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="636.0000000000001" y="778.2499999999999" as="sourcePoint" />
-            <mxPoint x="680" y="772.75" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="680" y="772.75" />
-            </Array>
+            <mxPoint x="620" y="235" as="sourcePoint" />
+            <mxPoint x="680" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
