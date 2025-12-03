@@ -181,10 +181,16 @@
         <mxCell id="x2bho4xLaQBrLYbkl1lD-135" value="用户管理子系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="620" y="721" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="x2bho4xLaQBrLYbkl1lD-136" value="" style="curved=1;startArrow=none;endArrow=oval;endSize=10;endFill=1;exitX=1;exitY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="x2bho4xLaQBrLYbkl1lD-136" value="" style="curved=1;startArrow=none;endArrow=oval;endSize=10;endFill=1;exitX=1;exitY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="x2bho4xLaQBrLYbkl1lD-118">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="910" y="778" as="sourcePoint" />
-            <mxPoint x="954" y="773" as="targetPoint" />
+            <mxPoint x="930" y="773" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x2bho4xLaQBrLYbkl1lD-137" value="" style="curved=1;startArrow=none;endArrow=oval;endSize=10;endFill=1;exitX=1;exitY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="656" y="805" as="sourcePoint" />
+            <mxPoint x="700" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
