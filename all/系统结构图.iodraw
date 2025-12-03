@@ -14,7 +14,7 @@
           <mxGeometry x="1605" y="317" width="395" height="99" as="geometry" />
         </mxCell>
         <mxCell id="TusFeVgvLDOQ6j0ooIX6-58" value="客户端层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="20" width="370" height="99" as="geometry" />
+          <mxGeometry x="1605" y="20" width="370" height="99" as="geometry" />
         </mxCell>
         <mxCell id="TusFeVgvLDOQ6j0ooIX6-59" value="Web浏览器" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1635" y="45" width="109" height="49" as="geometry" />
@@ -61,14 +61,6 @@
               <mxPoint x="1780" y="267" />
               <mxPoint x="1780" y="317" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TusFeVgvLDOQ6j0ooIX6-74" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.18;rounded=0;" edge="1" parent="1" source="TusFeVgvLDOQ6j0ooIX6-62">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1861" y="317" />
-            </Array>
-            <mxPoint x="1970" y="350.81999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TusFeVgvLDOQ6j0ooIX6-75" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.92;exitY=0.99;entryX=0.86;entryY=0.01;rounded=0;" edge="1" parent="1" source="TusFeVgvLDOQ6j0ooIX6-62" target="TusFeVgvLDOQ6j0ooIX6-67">
