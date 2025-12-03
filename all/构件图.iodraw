@@ -49,7 +49,7 @@
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-82" value="请求审核/结果" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.26;exitY=0.99;rounded=0;" edge="1" parent="1" source="x2bho4xLaQBrLYbkl1lD-74">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="670" y="210" as="targetPoint" />
+            <mxPoint x="640" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-83" value="发起撮合请求" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.51;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="x2bho4xLaQBrLYbkl1lD-74">
