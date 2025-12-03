@@ -116,7 +116,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-43" value="Module" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="170" width="100" height="50" as="geometry" />
+          <mxGeometry y="120" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x2bho4xLaQBrLYbkl1lD-44" value="Module" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="130" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
