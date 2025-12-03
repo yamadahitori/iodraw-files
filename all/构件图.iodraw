@@ -200,7 +200,7 @@
             <mxPoint x="1020" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x2bho4xLaQBrLYbkl1lD-178" value="&lt;div&gt;用户&lt;/div&gt;&lt;div&gt;User.dll&lt;/div&gt;" style="whiteSpace=wrap;strokeWidth=2;shape=module;spacingLeft=20;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="x2bho4xLaQBrLYbkl1lD-178" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;User.dll&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;strokeWidth=2;shape=module;spacingLeft=20;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="849.5" y="900" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
