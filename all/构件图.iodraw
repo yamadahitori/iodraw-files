@@ -150,7 +150,7 @@
           <mxGeometry x="687.5" y="930" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-167" value="商品管理子系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="990.5" y="1000" width="110" height="30" as="geometry" />
+          <mxGeometry x="1020" y="1025" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-168" value="交易撮合子系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="960" y="780" width="110" height="30" as="geometry" />
@@ -197,7 +197,7 @@
         <mxCell id="x2bho4xLaQBrLYbkl1lD-177" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="x2bho4xLaQBrLYbkl1lD-152">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="910" y="910" as="sourcePoint" />
-            <mxPoint x="990" y="970" as="targetPoint" />
+            <mxPoint x="1020" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
