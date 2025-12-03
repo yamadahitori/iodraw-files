@@ -155,6 +155,9 @@
         <mxCell id="x2bho4xLaQBrLYbkl1lD-168" value="交易撮合子系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="857.5" y="760.5" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="x2bho4xLaQBrLYbkl1lD-170" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="865" y="1058" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
