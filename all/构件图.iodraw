@@ -149,6 +149,15 @@
             <mxPoint x="640" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="x2bho4xLaQBrLYbkl1lD-152" value="&lt;div&gt;交易撮合构件&lt;div&gt;Match.exe&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;strokeWidth=2;shape=module;spacingLeft=20;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="735.5" y="810" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x2bho4xLaQBrLYbkl1lD-153" value="" style="curved=1;startArrow=none;endArrow=oval;endSize=10;endFill=1;exitX=1;exitY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="x2bho4xLaQBrLYbkl1lD-152">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="753.5" y="735" as="sourcePoint" />
+            <mxPoint x="897.5" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
