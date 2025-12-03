@@ -96,31 +96,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-87" value="请求数据" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.78;exitY=0.99;entryX=0.68;entryY=0;rounded=0;" edge="1" parent="1" source="x2bho4xLaQBrLYbkl1lD-74" target="x2bho4xLaQBrLYbkl1lD-72">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1062" y="130" />
-              <mxPoint x="1062" y="265" />
-              <mxPoint x="314" y="290" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-88" value="请求数据" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.67;exitY=0.99;entryX=0.76;entryY=0;rounded=0;" edge="1" parent="1" source="x2bho4xLaQBrLYbkl1lD-75" target="x2bho4xLaQBrLYbkl1lD-72">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1285" y="130" />
-              <mxPoint x="1285" y="265" />
-              <mxPoint x="1250" y="490" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-89" value="请求数据" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.69;exitY=0.99;entryX=0.84;entryY=0;rounded=0;" edge="1" parent="1" source="x2bho4xLaQBrLYbkl1lD-76" target="x2bho4xLaQBrLYbkl1lD-72">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1576" y="130" />
-              <mxPoint x="1576" y="265" />
-              <mxPoint x="354" y="290" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-90" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" source="x2bho4xLaQBrLYbkl1lD-68" target="x2bho4xLaQBrLYbkl1lD-67">
           <mxGeometry relative="1" as="geometry">
