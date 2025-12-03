@@ -98,7 +98,7 @@
             <mxPoint x="840" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x2bho4xLaQBrLYbkl1lD-117" value="商品管理构件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="x2bho4xLaQBrLYbkl1lD-117" value="商品管理构件" style="whiteSpace=wrap;strokeWidth=2;shape=module;spacingLeft=20;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="888" y="630" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-119" value="系统审核构件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -173,6 +173,9 @@
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-129" value="用户管理构件" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="500" y="750" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x2bho4xLaQBrLYbkl1lD-130" value="交易撮合构件" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="750" y="750" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
