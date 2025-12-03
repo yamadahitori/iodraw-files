@@ -7,11 +7,11 @@
         <mxCell id="TusFeVgvLDOQ6j0ooIX6-55" value="外部系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2181" y="317" width="382" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="TusFeVgvLDOQ6j0ooIX6-56" value="数据层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1605" y="317" width="556" height="99" as="geometry" />
-        </mxCell>
         <mxCell id="TusFeVgvLDOQ6j0ooIX6-57" value="应用服务层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1607" y="169" width="920" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="TusFeVgvLDOQ6j0ooIX6-56" value="数据层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1605" y="317" width="556" height="99" as="geometry" />
         </mxCell>
         <mxCell id="TusFeVgvLDOQ6j0ooIX6-58" value="客户端层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1600" y="20" width="370" height="99" as="geometry" />
@@ -126,6 +126,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1690" y="-20" as="sourcePoint" />
             <mxPoint x="1740" y="-70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1750" y="150" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
