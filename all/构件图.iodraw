@@ -110,14 +110,8 @@
         <mxCell id="x2bho4xLaQBrLYbkl1lD-120" value="数据访问构件" style="whiteSpace=wrap;strokeWidth=2;shape=module;spacingLeft=20;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="994" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="x2bho4xLaQBrLYbkl1lD-134" value="" style="curved=1;startArrow=none;endArrow=oval;endSize=10;endFill=1;exitX=1;exitY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="636" y="784.5" as="sourcePoint" />
-            <mxPoint x="680" y="780" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-135" value="用户管理子系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="630" y="740" width="110" height="30" as="geometry" />
+          <mxGeometry x="600" y="760.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-136" value="" style="curved=1;startArrow=none;endArrow=oval;endSize=10;endFill=1;exitX=1;exitY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="x2bho4xLaQBrLYbkl1lD-118">
           <mxGeometry relative="1" as="geometry">
