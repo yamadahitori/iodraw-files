@@ -198,6 +198,9 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="910" y="910" as="sourcePoint" />
             <mxPoint x="1020" y="1040" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1070" y="920" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-178" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;User.dll&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;strokeWidth=2;shape=module;spacingLeft=20;verticalAlign=top;html=1;" vertex="1" parent="1">
