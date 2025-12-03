@@ -107,7 +107,7 @@
         <mxCell id="x2bho4xLaQBrLYbkl1lD-137" value="" style="curved=1;startArrow=none;endArrow=oval;endSize=10;endFill=1;exitX=1;exitY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="x2bho4xLaQBrLYbkl1lD-119">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="598" y="885" as="sourcePoint" />
-            <mxPoint x="742" y="980" as="targetPoint" />
+            <mxPoint x="740" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-149" value="&lt;div&gt;用户管理构件&lt;div&gt;User.exe&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;strokeWidth=2;shape=module;spacingLeft=20;verticalAlign=top;html=1;" vertex="1" parent="1">
@@ -173,7 +173,7 @@
         <mxCell id="x2bho4xLaQBrLYbkl1lD-173" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="x2bho4xLaQBrLYbkl1lD-162">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="780" y="1050" as="sourcePoint" />
-            <mxPoint x="750" y="980" as="targetPoint" />
+            <mxPoint x="740" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-174" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.517;exitY=1.071;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="x2bho4xLaQBrLYbkl1lD-152">
