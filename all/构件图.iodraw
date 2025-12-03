@@ -70,10 +70,11 @@
         <mxCell id="x2bho4xLaQBrLYbkl1lD-89" value="请求数据" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.69;exitY=0.99;entryX=0.84;entryY=0;rounded=0;" edge="1" parent="1" source="x2bho4xLaQBrLYbkl1lD-76" target="x2bho4xLaQBrLYbkl1lD-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x2bho4xLaQBrLYbkl1lD-90" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" target="x2bho4xLaQBrLYbkl1lD-67">
+        <mxCell id="x2bho4xLaQBrLYbkl1lD-90" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="1025.5" y="264.9999999999998" as="sourcePoint" />
+            <mxPoint x="1340" y="110" as="sourcePoint" />
+            <mxPoint x="840" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-91" value="User.exe 用户管理构件" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
