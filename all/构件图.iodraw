@@ -17,7 +17,7 @@
           <mxGeometry x="971.5" y="191" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-71" value="I_风控服务" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1400" y="191" width="108" height="49" as="geometry" />
+          <mxGeometry x="1260" y="191" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-72" value="I_数据持久化" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="970" y="550" width="123" height="49" as="geometry" />
@@ -41,6 +41,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1347" y="130" />
+              <mxPoint x="1340" y="140" />
               <mxPoint x="1347" y="166" />
             </Array>
           </mxGeometry>
