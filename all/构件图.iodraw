@@ -38,13 +38,7 @@
           <mxGeometry x="897.5" y="420" width="256" height="49" as="geometry" />
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-78" value="" style="curved=1;startArrow=none;endArrow=oval;endSize=10;endFill=1;exitX=0.29;exitY=0.99;entryX=1;entryY=0.41;rounded=0;" edge="1" parent="1" source="x2bho4xLaQBrLYbkl1lD-76" target="x2bho4xLaQBrLYbkl1lD-69">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1347" y="130" />
-              <mxPoint x="1340" y="140" />
-              <mxPoint x="1347" y="166" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-79" value="" style="curved=1;startArrow=none;endArrow=oval;endSize=10;endFill=1;exitX=0.32;exitY=0.99;entryX=0.99;entryY=0.21;rounded=0;" edge="1" parent="1" source="x2bho4xLaQBrLYbkl1lD-75" target="x2bho4xLaQBrLYbkl1lD-70">
           <mxGeometry relative="1" as="geometry">
@@ -99,12 +93,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-86" value="请求数据" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.59;exitY=0.99;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="x2bho4xLaQBrLYbkl1lD-73" target="x2bho4xLaQBrLYbkl1lD-72">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="560" y="150" />
-              <mxPoint x="617" y="265" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-87" value="请求数据" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.78;exitY=0.99;entryX=0.68;entryY=0;rounded=0;" edge="1" parent="1" source="x2bho4xLaQBrLYbkl1lD-74" target="x2bho4xLaQBrLYbkl1lD-72">
           <mxGeometry relative="1" as="geometry">
