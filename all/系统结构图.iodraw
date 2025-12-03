@@ -11,12 +11,12 @@
           <mxGeometry x="1210" y="110" width="90" height="61" as="geometry" />
         </mxCell>
         <mxCell id="TusFeVgvLDOQ6j0ooIX6-87" value="商品管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="110" width="90" height="61" as="geometry" />
+          <mxGeometry x="1320" y="109.5" width="90" height="61" as="geometry" />
         </mxCell>
         <mxCell id="TusFeVgvLDOQ6j0ooIX6-88" value=" 交易撮合模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1450" y="110" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TusFeVgvLDOQ6j0ooIX6-89" value="4. 系统审核与数据分析模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="TusFeVgvLDOQ6j0ooIX6-89" value="系统审核与数据分析模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1560" y="110" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TusFeVgvLDOQ6j0ooIX6-90" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.13;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="TusFeVgvLDOQ6j0ooIX6-85" target="TusFeVgvLDOQ6j0ooIX6-86">
