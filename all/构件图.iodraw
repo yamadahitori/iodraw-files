@@ -98,9 +98,6 @@
             <mxPoint x="840" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x2bho4xLaQBrLYbkl1lD-116" value="用户管理构件&lt;div&gt;User.exe&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;strokeWidth=2;shape=module;spacingLeft=20;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="760" width="156" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-117" value="商品管理构件" style="whiteSpace=wrap;strokeWidth=2;shape=module;spacingLeft=20;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="947.5" y="824" width="156" height="49" as="geometry" />
         </mxCell>
@@ -113,9 +110,9 @@
         <mxCell id="x2bho4xLaQBrLYbkl1lD-120" value="数据访问构件" style="whiteSpace=wrap;strokeWidth=2;shape=module;spacingLeft=20;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="994" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="x2bho4xLaQBrLYbkl1lD-134" value="" style="curved=1;startArrow=none;endArrow=oval;endSize=10;endFill=1;exitX=1;exitY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="x2bho4xLaQBrLYbkl1lD-116">
+        <mxCell id="x2bho4xLaQBrLYbkl1lD-134" value="" style="curved=1;startArrow=none;endArrow=oval;endSize=10;endFill=1;exitX=1;exitY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620" y="235" as="sourcePoint" />
+            <mxPoint x="636" y="784.5" as="sourcePoint" />
             <mxPoint x="680" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -149,13 +146,13 @@
             <mxPoint x="1150" y="845" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x2bho4xLaQBrLYbkl1lD-149" value="审核分析构件&lt;div&gt;Audit.exe&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;strokeWidth=2;shape=module;spacingLeft=20;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="484" y="828.5" width="130" height="40" as="geometry" />
+        <mxCell id="x2bho4xLaQBrLYbkl1lD-149" value="&lt;div&gt;用户管理构件&lt;div&gt;User.exe&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;strokeWidth=2;shape=module;spacingLeft=20;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="780" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-150" value="" style="curved=1;startArrow=none;endArrow=oval;endSize=10;endFill=1;exitX=1;exitY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="x2bho4xLaQBrLYbkl1lD-149">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="502" y="753.5" as="sourcePoint" />
-            <mxPoint x="646" y="848.5" as="targetPoint" />
+            <mxPoint x="640" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
