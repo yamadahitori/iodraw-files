@@ -7,8 +7,8 @@
         <mxCell id="TusFeVgvLDOQ6j0ooIX6-55" value="外部系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2181" y="317" width="382" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="TusFeVgvLDOQ6j0ooIX6-57" value="应用服务层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1607" y="169" width="920" height="99" as="geometry" />
+        <mxCell id="TusFeVgvLDOQ6j0ooIX6-57" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1607" y="100" width="920" height="168" as="geometry" />
         </mxCell>
         <mxCell id="TusFeVgvLDOQ6j0ooIX6-56" value="数据层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1605" y="317" width="556" height="99" as="geometry" />
