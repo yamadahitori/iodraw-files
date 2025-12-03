@@ -129,12 +129,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-160" value="&lt;div&gt;DataStore.dll&lt;/div&gt;&lt;div&gt;&amp;nbsp;数据存取构件&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;strokeWidth=2;shape=module;spacingLeft=20;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="623.75" y="786" width="130" height="40" as="geometry" />
+          <mxGeometry x="543.75" y="780" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-161" value="" style="curved=1;startArrow=none;endArrow=oval;endSize=10;endFill=1;exitX=1;exitY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="x2bho4xLaQBrLYbkl1lD-160">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="641.75" y="711" as="sourcePoint" />
-            <mxPoint x="780" y="806" as="targetPoint" />
+            <mxPoint x="561.75" y="705" as="sourcePoint" />
+            <mxPoint x="700" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-162" value="&lt;div&gt;Product.exe&amp;nbsp;&lt;/div&gt;&lt;div&gt;商品管理构件&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;strokeWidth=2;shape=module;spacingLeft=20;verticalAlign=top;html=1;" vertex="1" parent="1">
@@ -170,7 +170,7 @@
             <mxPoint x="700" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x2bho4xLaQBrLYbkl1lD-173" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0;exitY=0;exitDx=10;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="x2bho4xLaQBrLYbkl1lD-162">
+        <mxCell id="x2bho4xLaQBrLYbkl1lD-173" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0;exitY=0;exitDx=0;exitDy=15;exitPerimeter=0;" edge="1" parent="1" source="x2bho4xLaQBrLYbkl1lD-162">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="780" y="1050" as="sourcePoint" />
             <mxPoint x="700" y="1040" as="targetPoint" />
