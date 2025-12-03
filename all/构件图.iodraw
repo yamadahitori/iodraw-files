@@ -98,7 +98,7 @@
             <mxPoint x="840" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x2bho4xLaQBrLYbkl1lD-116" value="用户管理构件" style="whiteSpace=wrap;strokeWidth=2;shape=module;spacingLeft=20;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="x2bho4xLaQBrLYbkl1lD-116" value="用户管理构件&lt;div&gt;User.exe&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;strokeWidth=2;shape=module;spacingLeft=20;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="751" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-117" value="商品管理构件" style="whiteSpace=wrap;strokeWidth=2;shape=module;spacingLeft=20;verticalAlign=top;html=1;" vertex="1" parent="1">
@@ -110,7 +110,7 @@
         <mxCell id="x2bho4xLaQBrLYbkl1lD-119" value="系统审核构件" style="whiteSpace=wrap;strokeWidth=2;shape=module;spacingLeft=20;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="656" y="873" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="x2bho4xLaQBrLYbkl1lD-120" value="数据访问构件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="x2bho4xLaQBrLYbkl1lD-120" value="数据访问构件" style="whiteSpace=wrap;strokeWidth=2;shape=module;spacingLeft=20;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="994" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="x2bho4xLaQBrLYbkl1lD-121" value="请求审核" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.43;exitY=1;entryX=0;entryY=0.01;rounded=0;" edge="1" parent="1" source="x2bho4xLaQBrLYbkl1lD-116" target="x2bho4xLaQBrLYbkl1lD-119">
