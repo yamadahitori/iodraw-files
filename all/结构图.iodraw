@@ -177,10 +177,10 @@
         <mxCell id="hgSVeNvvFIHZ9cvJer9D-34" value="交易信息接收与处理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2017" y="1625" width="231" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="hgSVeNvvFIHZ9cvJer9D-35" value="3.2 一对一沟通管理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-35" value="一对一沟通管理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1958" y="1746" width="199" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="hgSVeNvvFIHZ9cvJer9D-36" value="3.3 交易安排与确认" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-36" value="交易安排与确认" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1888" y="1867" width="199" height="49" as="geometry" />
         </mxCell>
         <mxCell id="hgSVeNvvFIHZ9cvJer9D-37" value="3.4 生成完整交易记录" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
