@@ -279,10 +279,10 @@
         <mxCell id="hgSVeNvvFIHZ9cvJer9D-51" value="审核与分析主控" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1776" y="2408" width="205" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="hgSVeNvvFIHZ9cvJer9D-52" value="4.1 审核系统" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-52" value="审核系统" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1891" y="2767" width="151" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="hgSVeNvvFIHZ9cvJer9D-53" value="4.2 数据分析系统" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-53" value="数据分析系统" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1852" y="2507" width="183" height="49" as="geometry" />
         </mxCell>
         <mxCell id="hgSVeNvvFIHZ9cvJer9D-54" value="用户修改信息审核" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
