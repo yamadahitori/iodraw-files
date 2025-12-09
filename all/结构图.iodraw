@@ -7,10 +7,10 @@
         <mxCell id="hgSVeNvvFIHZ9cvJer9D-1" value="用户管理主控" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1807" y="503" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="hgSVeNvvFIHZ9cvJer9D-2" value="1.1 信息查询" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-2" value="信息查询" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1667" y="602" width="199" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="hgSVeNvvFIHZ9cvJer9D-3" value="1.2 信息修改" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-3" value="信息修改" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1994" y="602" width="199" height="49" as="geometry" />
         </mxCell>
         <mxCell id="hgSVeNvvFIHZ9cvJer9D-4" value="用户数据库读取" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
@@ -74,7 +74,7 @@
         <mxCell id="hgSVeNvvFIHZ9cvJer9D-14" value="商品管理主控" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1989" y="870" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="hgSVeNvvFIHZ9cvJer9D-15" value="2.1 商品浏览与搜索" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-15" value="商品浏览与搜索" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1983" y="969" width="199" height="49" as="geometry" />
         </mxCell>
         <mxCell id="hgSVeNvvFIHZ9cvJer9D-16" value="2.2 商品发布与编辑" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
