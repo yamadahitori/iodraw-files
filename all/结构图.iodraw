@@ -77,10 +77,10 @@
         <mxCell id="hgSVeNvvFIHZ9cvJer9D-15" value="商品浏览与搜索" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1983" y="969" width="199" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="hgSVeNvvFIHZ9cvJer9D-16" value="2.2 商品发布与编辑" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-16" value="商品发布与编辑" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2233" y="969" width="199" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="hgSVeNvvFIHZ9cvJer9D-17" value="2.3 库存与状态管理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="hgSVeNvvFIHZ9cvJer9D-17" value="库存与状态管理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1752" y="1099" width="199" height="49" as="geometry" />
         </mxCell>
         <mxCell id="hgSVeNvvFIHZ9cvJer9D-18" value="商品库读取" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
